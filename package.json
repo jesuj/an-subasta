@@ -1,0 +1,25 @@
+{
+  "name": "an-subasta",
+  "version": "1.0.0",
+  "description": "Scraping de Subasta de la Aduana Nacional",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "scrape": "node --no-warnings scraping/index.js",
+    "lint": "eslint . --ext .js,.astro,.ts,.tsx",
+    "lint:fix": "npm run lint -- --fix",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Angel Jesus Oni Terceros",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "1.0.0-rc.12",
+    "picocolors": "1.0.0",
+    "sharp": "^0.32.6"
+  },
+  "devDependencies": {
+    "eslint": "8.50.0",
+    "eslint-config-standard": "17.1.0"
+  }
+}
