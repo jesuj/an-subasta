@@ -1,25 +1,54 @@
 {
   "name": "an-subasta",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Scraping de Subasta de la Aduana Nacional",
   "type": "module",
-  "main": "index.js",
+  "main": "api/index.js",
   "scripts": {
+    "dev:api": "wrangler dev api/index.js",
+    "deploy": "wrangler publish api/index.js",
     "scrape": "node --no-warnings scraping/index.js",
     "lint": "eslint . --ext .js,.astro,.ts,.tsx",
     "lint:fix": "npm run lint -- --fix",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "Angel Jesus Oni Terceros",
-  "license": "ISC",
+  "keywords": [
+    "hono",
+    "web",
+    "app",
+    "http",
+    "application",
+    "framework",
+    "router",
+    "cloudflare",
+    "workers",
+    "nodejs"
+  ],
+  "author": "Angel Jesus Oni <jesuz194@gmail.com> (https://github.com/jesuj)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jesuj/an-subasta"
+  },
   "dependencies": {
     "cheerio": "1.0.0-rc.12",
+    "hono": "3.7.3",
+    "husky": "8.0.3",
     "picocolors": "1.0.0",
-    "sharp": "^0.32.6"
+    "sharp": "0.32.6"
   },
   "devDependencies": {
     "eslint": "8.50.0",
-    "eslint-config-standard": "17.1.0"
+    "eslint-config-standard": "17.1.0",
+    "wrangler": "3.10.1"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "npm run lint:fix",
+      "pre-push": "npm test"
+    }
+  },
+  "engines": {
+    "node": ">=18.0.0"
   }
 }
