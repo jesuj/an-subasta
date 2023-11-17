@@ -3,7 +3,7 @@ import { logInfo, logSuccess } from './log.js'
 
 import { cleanUrlImg, saveImage, scrape } from './utils.js'
 
-const detalleApiEnpoint = 'http://anbsw04.aduana.gob.bo:7551/subastas/page/TileDetalleItem.jsp'
+const detailApiEnpoint = 'http://anbsw04.aduana.gob.bo:7551/subastas/page/TileDetalleItem.jsp'
 const URL_BASE_AN = 'http://anbsw04.aduana.gob.bo:7551/subastas/'
 
 const headers = {
@@ -13,10 +13,10 @@ const headers = {
   'content-type': 'application/x-www-form-urlencoded'
 }
 
-export async function getDetalleItems (catalogo) {
-  const detalleItems = await Promise.all(
-    catalogo.map(async (catalogoInfo) => {
-      const { lote: loteNumber, fecha_subasta: fechaSubasta, clasificacion, administracion_aduanera: administracionAduanera } = catalogoInfo
+export async function getDetailItems (catalog) {
+  const detailItems = await Promise.all(
+    catalog.map(async (catalogInfo) => {
+      const { lote: loteNumber, fecha_subasta: fechaSubasta, clasificacion, administracion_aduanera: administracionAduanera } = catalogInfo
       const year = fechaSubasta?.split('/')?.at(-1) ?? '2023'
       const number = 1
       const flag = 0
@@ -27,7 +27,7 @@ export async function getDetalleItems (catalogo) {
       body.append('anio', year)
       body.append('numero', number)
       body.append('flag', flag)
-      const $ = await scrape(detalleApiEnpoint, {
+      const $ = await scrape(detailApiEnpoint, {
         method: 'POST',
         headers,
         body
@@ -59,14 +59,14 @@ export async function getDetalleItems (catalogo) {
           if (data.img !== '') {
             const nameImgExtension = data.img.split('/').at(-1)
             const fileName = nameImgExtension.split('.').at(0)
-            imgStatic = await saveImage({ folder: 'item', fileName, url: data.img })
+            imgStatic = await saveImage({ folder: 'items', fileName, url: data.img })
           }
           return { imgStatic, ...data }
         })
       )
-      return { ...catalogoInfo, detailItems: detailItemsStaticImg }
+      return { ...catalogInfo, detailItems: detailItemsStaticImg }
     })
   )
   logSuccess('> All items are done!')
-  return detalleItems
+  return detailItems
 }

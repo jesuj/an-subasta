@@ -1,18 +1,18 @@
 [
   {
-    "id": "202312548",
-    "lote": "2548",
+    "id": "202313076",
+    "lote": "3076",
     "administracion_aduanera": "ADUANA AEROPUERTO EL ALTO",
-    "clasificacion": "MAQUINA",
+    "clasificacion": "CILINDRO DE DIRECCION",
     "recinto": "ALBO AEROPUERTO",
     "direccion": "AEROPUERTO INTERNACIONAL EL ALTO",
-    "fecha_subasta": "29/09/2023",
+    "fecha_subasta": "17/11/2023",
     "dias_restantes": "Hoy",
     "detailItems": [
       {
-        "imgStatic": "20231280016082023_984602b1_i1.webp",
+        "imgStatic": "20231055811072023_2174906b1_i1.webp",
         "nro": 0,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20231280016082023_984602b1_i1.jpg",
+        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20231055811072023_2174906b1_i1.jpg",
         "details": {
           "Descripción:": "Características:",
           "Características:": "Cantidad:",
@@ -29,106 +29,19 @@
     ]
   },
   {
-    "id": "202312553",
-    "lote": "2553",
-    "administracion_aduanera": "ADUANA AEROPUERTO EL ALTO",
-    "clasificacion": "PALETA ENGOMADA",
-    "recinto": "ALBO AEROPUERTO",
-    "direccion": "AEROPUERTO INTERNACIONAL EL ALTO",
-    "fecha_subasta": "29/09/2023",
+    "id": "202313071",
+    "lote": "3071",
+    "administracion_aduanera": "ADUANA FRONTERA DESAGUADERO / PUERTO ACOSTA",
+    "clasificacion": "SON 111 BOLSAS CON CLAVOS, 51 BARRAS DE CONSTRUCCIÓN, SON 2  TELEFONOS, ETC",
+    "recinto": "FRONTERA DESAGUADERO DAB",
+    "direccion": "EX ZOFRADESA- CALLE 2 ESQUINA MARIANO MUJICA",
+    "fecha_subasta": "17/11/2023",
     "dias_restantes": "Hoy",
     "detailItems": [
       {
-        "imgStatic": "20231306620082023_1982816b1_i1.webp",
+        "imgStatic": "20231998_1_111022023_1822614.webp",
         "nro": 0,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20231306620082023_1982816b1_i1.jpg",
-        "details": {
-          "Descripción:": "Características:",
-          "Características:": "Cantidad:",
-          "Cantidad:": "Unidad de Medida:",
-          "Unidad de Medida:": "Industria:",
-          "Industria:": "Fecha Vencimiento:",
-          "Fecha Vencimiento:": "Modelo:",
-          "Modelo:": "Estado:",
-          "Estado:": "Peso Kg.:",
-          "Peso Kg.:": "Observaciones:",
-          "Observaciones:": ""
-        }
-      }
-    ]
-  },
-  {
-    "id": "202312568",
-    "lote": "2568",
-    "administracion_aduanera": "ADUANA AEROPUERTO EL ALTO",
-    "clasificacion": "CABLE",
-    "recinto": "ALBO AEROPUERTO",
-    "direccion": "AEROPUERTO INTERNACIONAL EL ALTO",
-    "fecha_subasta": "29/09/2023",
-    "dias_restantes": "Hoy",
-    "detailItems": [
-      {
-        "imgStatic": "20231347325082023_1381325b1_i1.webp",
-        "nro": 0,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20231347325082023_1381325b1_i1.jpg",
-        "details": {
-          "Descripción:": "Características:",
-          "Características:": "Cantidad:",
-          "Cantidad:": "Unidad de Medida:",
-          "Unidad de Medida:": "Industria:",
-          "Industria:": "Fecha Vencimiento:",
-          "Fecha Vencimiento:": "Modelo:",
-          "Modelo:": "Estado:",
-          "Estado:": "Peso Kg.:",
-          "Peso Kg.:": "Observaciones:",
-          "Observaciones:": ""
-        }
-      }
-    ]
-  },
-  {
-    "id": "202312573",
-    "lote": "2573",
-    "administracion_aduanera": "ADUANA AEROPUERTO EL ALTO",
-    "clasificacion": "RUTER",
-    "recinto": "ALBO AEROPUERTO",
-    "direccion": "AEROPUERTO INTERNACIONAL EL ALTO",
-    "fecha_subasta": "29/09/2023",
-    "dias_restantes": "Hoy",
-    "detailItems": [
-      {
-        "imgStatic": "20231434307092023_1192500b1_i1.webp",
-        "nro": 0,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20231434307092023_1192500b1_i1.jpg",
-        "details": {
-          "Descripción:": "Características:",
-          "Características:": "Cantidad:",
-          "Cantidad:": "Unidad de Medida:",
-          "Unidad de Medida:": "Industria:",
-          "Industria:": "Fecha Vencimiento:",
-          "Fecha Vencimiento:": "Modelo:",
-          "Modelo:": "Estado:",
-          "Estado:": "Peso Kg.:",
-          "Peso Kg.:": "Observaciones:",
-          "Observaciones:": ""
-        }
-      }
-    ]
-  },
-  {
-    "id": "202312583",
-    "lote": "2583",
-    "administracion_aduanera": "ADUANA AEROPUERTO EL ALTO",
-    "clasificacion": "DISCO, CEPILLO, FOCOS, ETC",
-    "recinto": "ALBO AEROPUERTO",
-    "direccion": "AEROPUERTO INTERNACIONAL EL ALTO",
-    "fecha_subasta": "29/09/2023",
-    "dias_restantes": "Hoy",
-    "detailItems": [
-      {
-        "imgStatic": "20231335323082023_2180224b1_i1.webp",
-        "nro": 0,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20231335323082023_2180224b1_i1.jpg",
+        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20231998_1_111022023_1822614.jpg",
         "details": {
           "Descripción:": "Características:",
           "Características:": "Cantidad:",
@@ -143,9 +56,9 @@
         }
       },
       {
-        "imgStatic": "20231335323082023_2180224b1_i2.webp",
+        "imgStatic": "20231998_1_211022023_1822553.webp",
         "nro": 1,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20231335323082023_2180224b1_i2.jpg",
+        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20231998_1_211022023_1822553.jpg",
         "details": {
           "Descripción:": "Características:",
           "Características:": "Cantidad:",
@@ -160,9 +73,9 @@
         }
       },
       {
-        "imgStatic": "20231335323082023_2180224b1_i3.webp",
+        "imgStatic": "20231998_3_112022023_1824431.webp",
         "nro": 2,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20231335323082023_2180224b1_i3.jpg",
+        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20231998_3_112022023_1824431.jpg",
         "details": {
           "Descripción:": "Características:",
           "Características:": "Cantidad:",
@@ -177,9 +90,9 @@
         }
       },
       {
-        "imgStatic": "20231335323082023_2180224b1_i4.webp",
+        "imgStatic": "20231998_3_211022023_1922614.webp",
         "nro": 3,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20231335323082023_2180224b1_i4.jpg",
+        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20231998_3_211022023_1922614.jpg",
         "details": {
           "Descripción:": "Características:",
           "Características:": "Cantidad:",
@@ -194,38 +107,9 @@
         }
       },
       {
-        "imgStatic": "20231335323082023_2180224b1_i5.webp",
+        "imgStatic": "20231998_3_311022023_1923748.webp",
         "nro": 4,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20231335323082023_2180224b1_i5.jpg",
-        "details": {
-          "Descripción:": "Características:",
-          "Características:": "Cantidad:",
-          "Cantidad:": "Unidad de Medida:",
-          "Unidad de Medida:": "Industria:",
-          "Industria:": "Fecha Vencimiento:",
-          "Fecha Vencimiento:": "Modelo:",
-          "Modelo:": "Estado:",
-          "Estado:": "Peso Kg.:",
-          "Peso Kg.:": "Observaciones:",
-          "Observaciones:": ""
-        }
-      }
-    ]
-  },
-  {
-    "id": "202312543",
-    "lote": "2543",
-    "administracion_aduanera": "ADUANA INTERIOR POTOSI",
-    "clasificacion": "BARRA, CABLE, GRAPA, ETC",
-    "recinto": "GALPON 1",
-    "direccion": "KARACHIPAMPA-EX AEROPUETO CAP. ROJAS KM 7 CAMINO A SUCRE",
-    "fecha_subasta": "29/09/2023",
-    "dias_restantes": "Hoy",
-    "detailItems": [
-      {
-        "imgStatic": "202217440_1_121052023_1654851.webp",
-        "nro": 0,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/202217440_1_121052023_1654851.jpg",
+        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20231998_3_311022023_1923748.jpg",
         "details": {
           "Descripción:": "Características:",
           "Características:": "Cantidad:",
@@ -240,77 +124,9 @@
         }
       },
       {
-        "imgStatic": "202217440_2_121052023_1750321.webp",
-        "nro": 1,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/202217440_2_121052023_1750321.jpg",
-        "details": {
-          "Descripción:": "Características:",
-          "Características:": "Cantidad:",
-          "Cantidad:": "Unidad de Medida:",
-          "Unidad de Medida:": "Industria:",
-          "Industria:": "Fecha Vencimiento:",
-          "Fecha Vencimiento:": "Modelo:",
-          "Modelo:": "Estado:",
-          "Estado:": "Peso Kg.:",
-          "Peso Kg.:": "Observaciones:",
-          "Observaciones:": ""
-        }
-      },
-      {
-        "imgStatic": "202217440_3_121052023_1750640.webp",
-        "nro": 2,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/202217440_3_121052023_1750640.jpg",
-        "details": {
-          "Descripción:": "Características:",
-          "Características:": "Cantidad:",
-          "Cantidad:": "Unidad de Medida:",
-          "Unidad de Medida:": "Industria:",
-          "Industria:": "Fecha Vencimiento:",
-          "Fecha Vencimiento:": "Modelo:",
-          "Modelo:": "Estado:",
-          "Estado:": "Peso Kg.:",
-          "Peso Kg.:": "Observaciones:",
-          "Observaciones:": ""
-        }
-      },
-      {
-        "imgStatic": "202217440_4_121052023_1751010.webp",
-        "nro": 3,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/202217440_4_121052023_1751010.jpg",
-        "details": {
-          "Descripción:": "Características:",
-          "Características:": "Cantidad:",
-          "Cantidad:": "Unidad de Medida:",
-          "Unidad de Medida:": "Industria:",
-          "Industria:": "Fecha Vencimiento:",
-          "Fecha Vencimiento:": "Modelo:",
-          "Modelo:": "Estado:",
-          "Estado:": "Peso Kg.:",
-          "Peso Kg.:": "Observaciones:",
-          "Observaciones:": ""
-        }
-      },
-      {
-        "imgStatic": "202217440_51_19092023_1793523.webp",
-        "nro": 4,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/202217440_51_19092023_1793523.jpg",
-        "details": {
-          "Descripción:": "Características:",
-          "Características:": "Cantidad:",
-          "Cantidad:": "Unidad de Medida:",
-          "Unidad de Medida:": "Industria:",
-          "Industria:": "Fecha Vencimiento:",
-          "Fecha Vencimiento:": "Modelo:",
-          "Modelo:": "Estado:",
-          "Estado:": "Peso Kg.:",
-          "Peso Kg.:": "Observaciones:",
-          "Observaciones:": ""
-        }
-      },
-      {
-        "imgStatic": "202217440_6_121052023_1751401.webp",
+        "imgStatic": "20231998_3_411022023_1924456.webp",
         "nro": 5,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/202217440_6_121052023_1751401.jpg",
+        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20231998_3_411022023_1924456.jpg",
         "details": {
           "Descripción:": "Características:",
           "Características:": "Cantidad:",
@@ -325,9 +141,9 @@
         }
       },
       {
-        "imgStatic": "202217440_7_121052023_1751528.webp",
+        "imgStatic": "20231998_3_511022023_1924733.webp",
         "nro": 6,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/202217440_7_121052023_1751528.jpg",
+        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20231998_3_511022023_1924733.jpg",
         "details": {
           "Descripción:": "Características:",
           "Características:": "Cantidad:",
@@ -342,9 +158,9 @@
         }
       },
       {
-        "imgStatic": "202217440_8_121052023_1752239.webp",
+        "imgStatic": "20231998_3_611022023_1925124.webp",
         "nro": 7,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/202217440_8_121052023_1752239.jpg",
+        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20231998_3_611022023_1925124.jpg",
         "details": {
           "Descripción:": "Características:",
           "Características:": "Cantidad:",
@@ -359,9 +175,9 @@
         }
       },
       {
-        "imgStatic": "202217440_9_121052023_1753420.webp",
+        "imgStatic": "20231998_3_712022023_1120703.webp",
         "nro": 8,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/202217440_9_121052023_1753420.jpg",
+        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20231998_3_712022023_1120703.jpg",
         "details": {
           "Descripción:": "Características:",
           "Características:": "Cantidad:",
@@ -376,9 +192,9 @@
         }
       },
       {
-        "imgStatic": "202217440_10_121052023_1754259.webp",
+        "imgStatic": "20231998_3_812022023_1121232.webp",
         "nro": 9,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/202217440_10_121052023_1754259.jpg",
+        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20231998_3_812022023_1121232.1.2.jpg",
         "details": {
           "Descripción:": "Características:",
           "Características:": "Cantidad:",
@@ -393,9 +209,9 @@
         }
       },
       {
-        "imgStatic": "202217440_11_121052023_1754647.webp",
+        "imgStatic": "20231998_3_912022023_1125456.webp",
         "nro": 10,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/202217440_11_121052023_1754647.jpg",
+        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20231998_3_912022023_1125456.jpg",
         "details": {
           "Descripción:": "Características:",
           "Características:": "Cantidad:",
@@ -410,9 +226,9 @@
         }
       },
       {
-        "imgStatic": "202217440_12_123052023_1752323.webp",
+        "imgStatic": "20231998_3_1012022023_1221300.webp",
         "nro": 11,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/202217440_12_123052023_1752323.jpg",
+        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20231998_3_1012022023_1221300.jpg",
         "details": {
           "Descripción:": "Características:",
           "Características:": "Cantidad:",
@@ -427,9 +243,9 @@
         }
       },
       {
-        "imgStatic": "202217440_13_121052023_1850107.webp",
+        "imgStatic": "20231998_3_1212022023_1224413.webp",
         "nro": 12,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/202217440_13_121052023_1850107.jpg",
+        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20231998_3_1212022023_1224413.jpg",
         "details": {
           "Descripción:": "Características:",
           "Características:": "Cantidad:",
@@ -444,9 +260,9 @@
         }
       },
       {
-        "imgStatic": "202217440_14_122032023_035144.webp",
+        "imgStatic": "20231998_3_1312022023_1225022.webp",
         "nro": 13,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/202217440_14_122032023_035144.jpg",
+        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20231998_3_1312022023_1225022.jpg",
         "details": {
           "Descripción:": "Características:",
           "Características:": "Cantidad:",
@@ -461,9 +277,9 @@
         }
       },
       {
-        "imgStatic": "202217440_15_119032023_1931736.webp",
+        "imgStatic": "20231998_3_1414022023_1621554.webp",
         "nro": 14,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/202217440_15_119032023_1931736.jpg",
+        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20231998_3_1414022023_1621554.jpg",
         "details": {
           "Descripción:": "Características:",
           "Características:": "Cantidad:",
@@ -478,9 +294,9 @@
         }
       },
       {
-        "imgStatic": "202217440_16_122032023_130510.webp",
+        "imgStatic": "20231998_3_1514022023_1622226.webp",
         "nro": 15,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/202217440_16_122032023_130510.jpg",
+        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20231998_3_1514022023_1622226.jpg",
         "details": {
           "Descripción:": "Características:",
           "Características:": "Cantidad:",
@@ -495,9 +311,9 @@
         }
       },
       {
-        "imgStatic": "202217440_17_122032023_131125.webp",
+        "imgStatic": "20231998_3_1614022023_1622056.webp",
         "nro": 16,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/202217440_17_122032023_131125.jpg",
+        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20231998_3_1614022023_1622056.850.jpg",
         "details": {
           "Descripción:": "Características:",
           "Características:": "Cantidad:",
@@ -512,9 +328,9 @@
         }
       },
       {
-        "imgStatic": "202217440_18_122032023_131633.webp",
+        "imgStatic": "20231998_3_1714022023_1622356.webp",
         "nro": 17,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/202217440_18_122032023_131633.jpg",
+        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20231998_3_1714022023_1622356.t9650.jpg",
         "details": {
           "Descripción:": "Características:",
           "Características:": "Cantidad:",
@@ -529,9 +345,9 @@
         }
       },
       {
-        "imgStatic": "202217440_19_122032023_132551.webp",
+        "imgStatic": "20231998_3_1814022023_1623034.webp",
         "nro": 18,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/202217440_19_122032023_132551.jpg",
+        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20231998_3_1814022023_1623034.jpg",
         "details": {
           "Descripción:": "Características:",
           "Características:": "Cantidad:",
@@ -546,9 +362,9 @@
         }
       },
       {
-        "imgStatic": "202217440_20_119032023_1932123.webp",
+        "imgStatic": "20231998_3_1914022023_1623152.webp",
         "nro": 19,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/202217440_20_119032023_1932123.jpg",
+        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20231998_3_1914022023_1623152.jpg",
         "details": {
           "Descripción:": "Características:",
           "Características:": "Cantidad:",
@@ -565,1904 +381,19 @@
     ]
   },
   {
-    "id": "202312513",
-    "lote": "2513",
-    "administracion_aduanera": "ADUANA INTERIOR SANTA CRUZ",
-    "clasificacion": "CONJUNTO PARA EL CUIDADO DE LAS UÑAS",
-    "recinto": "ALBO SANTA CRUZ",
-    "direccion": "AV. BRASIL, RADIAL 8 ENTRE 3 Y 4 ANILLO",
-    "fecha_subasta": "29/09/2023",
-    "dias_restantes": "Hoy",
-    "detailItems": [
-      {
-        "imgStatic": "20239378_9_128062023_1362140.webp",
-        "nro": 0,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20239378_9_128062023_1362140.jpg",
-        "details": {
-          "Descripción:": "Características:",
-          "Características:": "Cantidad:",
-          "Cantidad:": "Unidad de Medida:",
-          "Unidad de Medida:": "Industria:",
-          "Industria:": "Fecha Vencimiento:",
-          "Fecha Vencimiento:": "Modelo:",
-          "Modelo:": "Estado:",
-          "Estado:": "Peso Kg.:",
-          "Peso Kg.:": "Observaciones:",
-          "Observaciones:": ""
-        }
-      }
-    ]
-  },
-  {
-    "id": "202312518",
-    "lote": "2518",
-    "administracion_aduanera": "ADUANA INTERIOR SANTA CRUZ",
-    "clasificacion": "GUANTES DE NITRILO",
-    "recinto": "ALBO SANTA CRUZ",
-    "direccion": "AV. BRASIL, RADIAL 8 ENTRE 3 Y 4 ANILLO",
-    "fecha_subasta": "29/09/2023",
-    "dias_restantes": "Hoy",
-    "detailItems": [
-      {
-        "imgStatic": "20237534_1_201062023_1663209.webp",
-        "nro": 0,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20237534_1_201062023_1663209.jpg",
-        "details": {
-          "Descripción:": "Características:",
-          "Características:": "Cantidad:",
-          "Cantidad:": "Unidad de Medida:",
-          "Unidad de Medida:": "Industria:",
-          "Industria:": "Fecha Vencimiento:",
-          "Fecha Vencimiento:": "Modelo:",
-          "Modelo:": "Estado:",
-          "Estado:": "Peso Kg.:",
-          "Peso Kg.:": "Observaciones:",
-          "Observaciones:": ""
-        }
-      },
-      {
-        "imgStatic": "20237534_2_201062023_1663341.webp",
-        "nro": 1,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20237534_2_201062023_1663341.jpg",
-        "details": {
-          "Descripción:": "Características:",
-          "Características:": "Cantidad:",
-          "Cantidad:": "Unidad de Medida:",
-          "Unidad de Medida:": "Industria:",
-          "Industria:": "Fecha Vencimiento:",
-          "Fecha Vencimiento:": "Modelo:",
-          "Modelo:": "Estado:",
-          "Estado:": "Peso Kg.:",
-          "Peso Kg.:": "Observaciones:",
-          "Observaciones:": ""
-        }
-      }
-    ]
-  },
-  {
-    "id": "202312528",
-    "lote": "2528",
-    "administracion_aduanera": "ADUANA INTERIOR SANTA CRUZ",
-    "clasificacion": "REPUESTOS PARA CAMION",
-    "recinto": "ALBO SANTA CRUZ",
-    "direccion": "AV. BRASIL, RADIAL 8 ENTRE 3 Y 4 ANILLO",
-    "fecha_subasta": "29/09/2023",
-    "dias_restantes": "Hoy",
-    "detailItems": [
-      {
-        "imgStatic": "20233037_1_104052023_1855018.webp",
-        "nro": 0,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20233037_1_104052023_1855018.jpg",
-        "details": {
-          "Descripción:": "Características:",
-          "Características:": "Cantidad:",
-          "Cantidad:": "Unidad de Medida:",
-          "Unidad de Medida:": "Industria:",
-          "Industria:": "Fecha Vencimiento:",
-          "Fecha Vencimiento:": "Modelo:",
-          "Modelo:": "Estado:",
-          "Estado:": "Peso Kg.:",
-          "Peso Kg.:": "Observaciones:",
-          "Observaciones:": ""
-        }
-      },
-      {
-        "imgStatic": "20233037_1_204052023_1855204.webp",
-        "nro": 1,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20233037_1_204052023_1855204.jpg",
-        "details": {
-          "Descripción:": "Características:",
-          "Características:": "Cantidad:",
-          "Cantidad:": "Unidad de Medida:",
-          "Unidad de Medida:": "Industria:",
-          "Industria:": "Fecha Vencimiento:",
-          "Fecha Vencimiento:": "Modelo:",
-          "Modelo:": "Estado:",
-          "Estado:": "Peso Kg.:",
-          "Peso Kg.:": "Observaciones:",
-          "Observaciones:": ""
-        }
-      },
-      {
-        "imgStatic": "20233037_1_304052023_1855436.webp",
-        "nro": 2,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20233037_1_304052023_1855436.jpg",
-        "details": {
-          "Descripción:": "Características:",
-          "Características:": "Cantidad:",
-          "Cantidad:": "Unidad de Medida:",
-          "Unidad de Medida:": "Industria:",
-          "Industria:": "Fecha Vencimiento:",
-          "Fecha Vencimiento:": "Modelo:",
-          "Modelo:": "Estado:",
-          "Estado:": "Peso Kg.:",
-          "Peso Kg.:": "Observaciones:",
-          "Observaciones:": ""
-        }
-      },
-      {
-        "imgStatic": "20233037_1_404052023_1855733.webp",
-        "nro": 3,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20233037_1_404052023_1855733.jpg",
-        "details": {
-          "Descripción:": "Características:",
-          "Características:": "Cantidad:",
-          "Cantidad:": "Unidad de Medida:",
-          "Unidad de Medida:": "Industria:",
-          "Industria:": "Fecha Vencimiento:",
-          "Fecha Vencimiento:": "Modelo:",
-          "Modelo:": "Estado:",
-          "Estado:": "Peso Kg.:",
-          "Peso Kg.:": "Observaciones:",
-          "Observaciones:": ""
-        }
-      },
-      {
-        "imgStatic": "20233037_1_504052023_1855845.webp",
-        "nro": 4,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20233037_1_504052023_1855845.jpg",
-        "details": {
-          "Descripción:": "Características:",
-          "Características:": "Cantidad:",
-          "Cantidad:": "Unidad de Medida:",
-          "Unidad de Medida:": "Industria:",
-          "Industria:": "Fecha Vencimiento:",
-          "Fecha Vencimiento:": "Modelo:",
-          "Modelo:": "Estado:",
-          "Estado:": "Peso Kg.:",
-          "Peso Kg.:": "Observaciones:",
-          "Observaciones:": ""
-        }
-      },
-      {
-        "imgStatic": "20233037_2_104052023_1952208.webp",
-        "nro": 5,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20233037_2_104052023_1952208.jpg",
-        "details": {
-          "Descripción:": "Características:",
-          "Características:": "Cantidad:",
-          "Cantidad:": "Unidad de Medida:",
-          "Unidad de Medida:": "Industria:",
-          "Industria:": "Fecha Vencimiento:",
-          "Fecha Vencimiento:": "Modelo:",
-          "Modelo:": "Estado:",
-          "Estado:": "Peso Kg.:",
-          "Peso Kg.:": "Observaciones:",
-          "Observaciones:": ""
-        }
-      },
-      {
-        "imgStatic": "20233037_3_104052023_1953118.webp",
-        "nro": 6,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20233037_3_104052023_1953118.jpg",
-        "details": {
-          "Descripción:": "Características:",
-          "Características:": "Cantidad:",
-          "Cantidad:": "Unidad de Medida:",
-          "Unidad de Medida:": "Industria:",
-          "Industria:": "Fecha Vencimiento:",
-          "Fecha Vencimiento:": "Modelo:",
-          "Modelo:": "Estado:",
-          "Estado:": "Peso Kg.:",
-          "Peso Kg.:": "Observaciones:",
-          "Observaciones:": ""
-        }
-      },
-      {
-        "imgStatic": "20233037_4_104052023_1953638.webp",
-        "nro": 7,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20233037_4_104052023_1953638.jpg",
-        "details": {
-          "Descripción:": "Características:",
-          "Características:": "Cantidad:",
-          "Cantidad:": "Unidad de Medida:",
-          "Unidad de Medida:": "Industria:",
-          "Industria:": "Fecha Vencimiento:",
-          "Fecha Vencimiento:": "Modelo:",
-          "Modelo:": "Estado:",
-          "Estado:": "Peso Kg.:",
-          "Peso Kg.:": "Observaciones:",
-          "Observaciones:": ""
-        }
-      },
-      {
-        "imgStatic": "20233037_5_104052023_1953901.webp",
-        "nro": 8,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20233037_5_104052023_1953901.jpg",
-        "details": {
-          "Descripción:": "Características:",
-          "Características:": "Cantidad:",
-          "Cantidad:": "Unidad de Medida:",
-          "Unidad de Medida:": "Industria:",
-          "Industria:": "Fecha Vencimiento:",
-          "Fecha Vencimiento:": "Modelo:",
-          "Modelo:": "Estado:",
-          "Estado:": "Peso Kg.:",
-          "Peso Kg.:": "Observaciones:",
-          "Observaciones:": ""
-        }
-      },
-      {
-        "imgStatic": "20233037_5_204052023_1954017.webp",
-        "nro": 9,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20233037_5_204052023_1954017.jpg",
-        "details": {
-          "Descripción:": "Características:",
-          "Características:": "Cantidad:",
-          "Cantidad:": "Unidad de Medida:",
-          "Unidad de Medida:": "Industria:",
-          "Industria:": "Fecha Vencimiento:",
-          "Fecha Vencimiento:": "Modelo:",
-          "Modelo:": "Estado:",
-          "Estado:": "Peso Kg.:",
-          "Peso Kg.:": "Observaciones:",
-          "Observaciones:": ""
-        }
-      },
-      {
-        "imgStatic": "20233037_5_304052023_1954117.webp",
-        "nro": 10,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20233037_5_304052023_1954117.jpg",
-        "details": {
-          "Descripción:": "Características:",
-          "Características:": "Cantidad:",
-          "Cantidad:": "Unidad de Medida:",
-          "Unidad de Medida:": "Industria:",
-          "Industria:": "Fecha Vencimiento:",
-          "Fecha Vencimiento:": "Modelo:",
-          "Modelo:": "Estado:",
-          "Estado:": "Peso Kg.:",
-          "Peso Kg.:": "Observaciones:",
-          "Observaciones:": ""
-        }
-      },
-      {
-        "imgStatic": "20233037_5_404052023_1954313.webp",
-        "nro": 11,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20233037_5_404052023_1954313.jpg",
-        "details": {
-          "Descripción:": "Características:",
-          "Características:": "Cantidad:",
-          "Cantidad:": "Unidad de Medida:",
-          "Unidad de Medida:": "Industria:",
-          "Industria:": "Fecha Vencimiento:",
-          "Fecha Vencimiento:": "Modelo:",
-          "Modelo:": "Estado:",
-          "Estado:": "Peso Kg.:",
-          "Peso Kg.:": "Observaciones:",
-          "Observaciones:": ""
-        }
-      },
-      {
-        "imgStatic": "20233037_5_504052023_1954416.webp",
-        "nro": 12,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20233037_5_504052023_1954416.jpg",
-        "details": {
-          "Descripción:": "Características:",
-          "Características:": "Cantidad:",
-          "Cantidad:": "Unidad de Medida:",
-          "Unidad de Medida:": "Industria:",
-          "Industria:": "Fecha Vencimiento:",
-          "Fecha Vencimiento:": "Modelo:",
-          "Modelo:": "Estado:",
-          "Estado:": "Peso Kg.:",
-          "Peso Kg.:": "Observaciones:",
-          "Observaciones:": ""
-        }
-      },
-      {
-        "imgStatic": "20233037_5_604052023_1955121.webp",
-        "nro": 13,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20233037_5_604052023_1955121.jpg",
-        "details": {
-          "Descripción:": "Características:",
-          "Características:": "Cantidad:",
-          "Cantidad:": "Unidad de Medida:",
-          "Unidad de Medida:": "Industria:",
-          "Industria:": "Fecha Vencimiento:",
-          "Fecha Vencimiento:": "Modelo:",
-          "Modelo:": "Estado:",
-          "Estado:": "Peso Kg.:",
-          "Peso Kg.:": "Observaciones:",
-          "Observaciones:": ""
-        }
-      },
-      {
-        "imgStatic": "20233037_5_704052023_1955604.webp",
-        "nro": 14,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20233037_5_704052023_1955604.jpg",
-        "details": {
-          "Descripción:": "Características:",
-          "Características:": "Cantidad:",
-          "Cantidad:": "Unidad de Medida:",
-          "Unidad de Medida:": "Industria:",
-          "Industria:": "Fecha Vencimiento:",
-          "Fecha Vencimiento:": "Modelo:",
-          "Modelo:": "Estado:",
-          "Estado:": "Peso Kg.:",
-          "Peso Kg.:": "Observaciones:",
-          "Observaciones:": ""
-        }
-      },
-      {
-        "imgStatic": "20233037_6_104052023_1955848.webp",
-        "nro": 15,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20233037_6_104052023_1955848.jpg",
-        "details": {
-          "Descripción:": "Características:",
-          "Características:": "Cantidad:",
-          "Cantidad:": "Unidad de Medida:",
-          "Unidad de Medida:": "Industria:",
-          "Industria:": "Fecha Vencimiento:",
-          "Fecha Vencimiento:": "Modelo:",
-          "Modelo:": "Estado:",
-          "Estado:": "Peso Kg.:",
-          "Peso Kg.:": "Observaciones:",
-          "Observaciones:": ""
-        }
-      },
-      {
-        "imgStatic": "20233037_6_204052023_2051009.webp",
-        "nro": 16,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20233037_6_204052023_2051009.jpg",
-        "details": {
-          "Descripción:": "Características:",
-          "Características:": "Cantidad:",
-          "Cantidad:": "Unidad de Medida:",
-          "Unidad de Medida:": "Industria:",
-          "Industria:": "Fecha Vencimiento:",
-          "Fecha Vencimiento:": "Modelo:",
-          "Modelo:": "Estado:",
-          "Estado:": "Peso Kg.:",
-          "Peso Kg.:": "Observaciones:",
-          "Observaciones:": ""
-        }
-      },
-      {
-        "imgStatic": "20233037_6_304052023_2052114.webp",
-        "nro": 17,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20233037_6_304052023_2052114.jpg",
-        "details": {
-          "Descripción:": "Características:",
-          "Características:": "Cantidad:",
-          "Cantidad:": "Unidad de Medida:",
-          "Unidad de Medida:": "Industria:",
-          "Industria:": "Fecha Vencimiento:",
-          "Fecha Vencimiento:": "Modelo:",
-          "Modelo:": "Estado:",
-          "Estado:": "Peso Kg.:",
-          "Peso Kg.:": "Observaciones:",
-          "Observaciones:": ""
-        }
-      },
-      {
-        "imgStatic": "20233037_6_404052023_2052318.webp",
-        "nro": 18,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20233037_6_404052023_2052318.jpg",
-        "details": {
-          "Descripción:": "Características:",
-          "Características:": "Cantidad:",
-          "Cantidad:": "Unidad de Medida:",
-          "Unidad de Medida:": "Industria:",
-          "Industria:": "Fecha Vencimiento:",
-          "Fecha Vencimiento:": "Modelo:",
-          "Modelo:": "Estado:",
-          "Estado:": "Peso Kg.:",
-          "Peso Kg.:": "Observaciones:",
-          "Observaciones:": ""
-        }
-      },
-      {
-        "imgStatic": "20233037_6_504052023_2052629.webp",
-        "nro": 19,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20233037_6_504052023_2052629.jpg",
-        "details": {
-          "Descripción:": "Características:",
-          "Características:": "Cantidad:",
-          "Cantidad:": "Unidad de Medida:",
-          "Unidad de Medida:": "Industria:",
-          "Industria:": "Fecha Vencimiento:",
-          "Fecha Vencimiento:": "Modelo:",
-          "Modelo:": "Estado:",
-          "Estado:": "Peso Kg.:",
-          "Peso Kg.:": "Observaciones:",
-          "Observaciones:": ""
-        }
-      }
-    ]
-  },
-  {
-    "id": "202312533",
-    "lote": "2533",
-    "administracion_aduanera": "ADUANA AEROPUERTO VIRU VIRU",
-    "clasificacion": "CALZA  DE MUJER",
-    "recinto": "VIRU VIRU - ALBO",
-    "direccion": "KM. 11 CARRETERA AL NORTE",
-    "fecha_subasta": "29/09/2023",
-    "dias_restantes": "Hoy",
-    "detailItems": [
-      {
-        "imgStatic": "20236820_1_115052023_1852721.webp",
-        "nro": 0,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20236820_1_115052023_1852721.jpg",
-        "details": {
-          "Descripción:": "Características:",
-          "Características:": "Cantidad:",
-          "Cantidad:": "Unidad de Medida:",
-          "Unidad de Medida:": "Industria:",
-          "Industria:": "Fecha Vencimiento:",
-          "Fecha Vencimiento:": "Modelo:",
-          "Modelo:": "Estado:",
-          "Estado:": "Peso Kg.:",
-          "Peso Kg.:": "Observaciones:",
-          "Observaciones:": ""
-        }
-      }
-    ]
-  },
-  {
-    "id": "202312538",
-    "lote": "2538",
-    "administracion_aduanera": "ADUANA AEROPUERTO VIRU VIRU",
-    "clasificacion": "LLAVERO, BISUTERIA",
-    "recinto": "VIRU VIRU - ALBO",
-    "direccion": "KM. 11 CARRETERA AL NORTE",
-    "fecha_subasta": "29/09/2023",
-    "dias_restantes": "Hoy",
-    "detailItems": [
-      {
-        "imgStatic": "20237302_1_109082023_984102.webp",
-        "nro": 0,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20237302_1_109082023_984102.jpg",
-        "details": {
-          "Descripción:": "Características:",
-          "Características:": "Cantidad:",
-          "Cantidad:": "Unidad de Medida:",
-          "Unidad de Medida:": "Industria:",
-          "Industria:": "Fecha Vencimiento:",
-          "Fecha Vencimiento:": "Modelo:",
-          "Modelo:": "Estado:",
-          "Estado:": "Peso Kg.:",
-          "Peso Kg.:": "Observaciones:",
-          "Observaciones:": ""
-        }
-      },
-      {
-        "imgStatic": "20237302_1_209082023_984346.webp",
-        "nro": 1,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20237302_1_209082023_984346.jpg",
-        "details": {
-          "Descripción:": "Características:",
-          "Características:": "Cantidad:",
-          "Cantidad:": "Unidad de Medida:",
-          "Unidad de Medida:": "Industria:",
-          "Industria:": "Fecha Vencimiento:",
-          "Fecha Vencimiento:": "Modelo:",
-          "Modelo:": "Estado:",
-          "Estado:": "Peso Kg.:",
-          "Peso Kg.:": "Observaciones:",
-          "Observaciones:": ""
-        }
-      }
-    ]
-  },
-  {
-    "id": "202312558",
-    "lote": "2558",
-    "administracion_aduanera": "ADUANA AEROPUERTO VIRU VIRU",
-    "clasificacion": "PIEDRA",
-    "recinto": "VIRU VIRU - DAB",
-    "direccion": "KM. 11 CARRETERA AL NORTE",
-    "fecha_subasta": "29/09/2023",
-    "dias_restantes": "Hoy",
-    "detailItems": [
-      {
-        "imgStatic": "20231321822082023_1781204b1_i1.webp",
-        "nro": 0,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20231321822082023_1781204b1_i1.jpg",
-        "details": {
-          "Descripción:": "Características:",
-          "Características:": "Cantidad:",
-          "Cantidad:": "Unidad de Medida:",
-          "Unidad de Medida:": "Industria:",
-          "Industria:": "Fecha Vencimiento:",
-          "Fecha Vencimiento:": "Modelo:",
-          "Modelo:": "Estado:",
-          "Estado:": "Peso Kg.:",
-          "Peso Kg.:": "Observaciones:",
-          "Observaciones:": ""
-        }
-      }
-    ]
-  },
-  {
-    "id": "202312563",
-    "lote": "2563",
-    "administracion_aduanera": "ADUANA AEROPUERTO VIRU VIRU",
-    "clasificacion": "REPUESTO",
-    "recinto": "VIRU VIRU - DAB",
-    "direccion": "KM. 11 CARRETERA AL NORTE",
-    "fecha_subasta": "29/09/2023",
-    "dias_restantes": "Hoy",
-    "detailItems": [
-      {
-        "imgStatic": "20231330023082023_1383136b1_i1.webp",
-        "nro": 0,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20231330023082023_1383136b1_i1.jpg",
-        "details": {
-          "Descripción:": "Características:",
-          "Características:": "Cantidad:",
-          "Cantidad:": "Unidad de Medida:",
-          "Unidad de Medida:": "Industria:",
-          "Industria:": "Fecha Vencimiento:",
-          "Fecha Vencimiento:": "Modelo:",
-          "Modelo:": "Estado:",
-          "Estado:": "Peso Kg.:",
-          "Peso Kg.:": "Observaciones:",
-          "Observaciones:": ""
-        }
-      }
-    ]
-  },
-  {
-    "id": "202312578",
-    "lote": "2578",
-    "administracion_aduanera": "ADUANA AEROPUERTO VIRU VIRU",
-    "clasificacion": "SET FILTRO DE CAFETERA, TARJETA MEMORIA",
-    "recinto": "ALBO VIRU VIRU",
-    "direccion": "AEROPUERTO INTERNACIONAL VIRU VIRU",
-    "fecha_subasta": "29/09/2023",
-    "dias_restantes": "Hoy",
-    "detailItems": [
-      {
-        "imgStatic": "20231321922082023_1781348b1_i1.webp",
-        "nro": 0,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20231321922082023_1781348b1_i1.jpg",
-        "details": {
-          "Descripción:": "Características:",
-          "Características:": "Cantidad:",
-          "Cantidad:": "Unidad de Medida:",
-          "Unidad de Medida:": "Industria:",
-          "Industria:": "Fecha Vencimiento:",
-          "Fecha Vencimiento:": "Modelo:",
-          "Modelo:": "Estado:",
-          "Estado:": "Peso Kg.:",
-          "Peso Kg.:": "Observaciones:",
-          "Observaciones:": ""
-        }
-      },
-      {
-        "imgStatic": "20231321922082023_1781348b1_i2.webp",
-        "nro": 1,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20231321922082023_1781348b1_i2.jpg",
-        "details": {
-          "Descripción:": "Características:",
-          "Características:": "Cantidad:",
-          "Cantidad:": "Unidad de Medida:",
-          "Unidad de Medida:": "Industria:",
-          "Industria:": "Fecha Vencimiento:",
-          "Fecha Vencimiento:": "Modelo:",
-          "Modelo:": "Estado:",
-          "Estado:": "Peso Kg.:",
-          "Peso Kg.:": "Observaciones:",
-          "Observaciones:": ""
-        }
-      }
-    ]
-  },
-  {
-    "id": "202312588",
-    "lote": "2588",
-    "administracion_aduanera": "ADUANA AEROPUERTO VIRU VIRU",
-    "clasificacion": "JUEGO DE FICHAS DE POQUER",
-    "recinto": "VIRU VIRU - DAB",
-    "direccion": "KM. 11 CARRETERA AL NORTE",
-    "fecha_subasta": "29/09/2023",
-    "dias_restantes": "Hoy",
-    "detailItems": [
-      {
-        "imgStatic": "202310451_1_114072023_973300.webp",
-        "nro": 0,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/202310451_1_114072023_973300.jpg",
-        "details": {
-          "Descripción:": "Características:",
-          "Características:": "Cantidad:",
-          "Cantidad:": "Unidad de Medida:",
-          "Unidad de Medida:": "Industria:",
-          "Industria:": "Fecha Vencimiento:",
-          "Fecha Vencimiento:": "Modelo:",
-          "Modelo:": "Estado:",
-          "Estado:": "Peso Kg.:",
-          "Peso Kg.:": "Observaciones:",
-          "Observaciones:": ""
-        }
-      }
-    ]
-  },
-  {
-    "id": "202312508",
-    "lote": "2508",
-    "administracion_aduanera": "ADUANA Z.F.C. COBIJA",
-    "clasificacion": "LAMPARAS TUBULAR",
-    "recinto": "ALMACEN 2-MERCANCIA",
-    "direccion": "AV.6 DE MARZO S/N KM",
-    "fecha_subasta": "29/09/2023",
-    "dias_restantes": "Hoy",
-    "detailItems": [
-      {
-        "imgStatic": "2021514_1_123062021_1260402.webp",
-        "nro": 0,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/2021514_1_123062021_1260402.jpg",
-        "details": {
-          "Descripción:": "Características:",
-          "Características:": "Cantidad:",
-          "Cantidad:": "Unidad de Medida:",
-          "Unidad de Medida:": "Industria:",
-          "Industria:": "Fecha Vencimiento:",
-          "Fecha Vencimiento:": "Modelo:",
-          "Modelo:": "Estado:",
-          "Estado:": "Peso Kg.:",
-          "Peso Kg.:": "Observaciones:",
-          "Observaciones:": ""
-        }
-      }
-    ]
-  },
-  {
-    "id": "202312523",
-    "lote": "2523",
-    "administracion_aduanera": "ADUANA Z.F.C. COBIJA",
-    "clasificacion": "BALATA PARA VEHÍCULO, RODAMIENTO",
-    "recinto": "ALMACEN ZOFRACOBIJA",
-    "direccion": "KM 14/2 CARRETERA COBIJA A PORVENIR",
-    "fecha_subasta": "29/09/2023",
-    "dias_restantes": "Hoy",
-    "detailItems": [
-      {
-        "imgStatic": "20239969_1_113072023_1874059.webp",
-        "nro": 0,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20239969_1_113072023_1874059.jpg",
-        "details": {
-          "Descripción:": "Características:",
-          "Características:": "Cantidad:",
-          "Cantidad:": "Unidad de Medida:",
-          "Unidad de Medida:": "Industria:",
-          "Industria:": "Fecha Vencimiento:",
-          "Fecha Vencimiento:": "Modelo:",
-          "Modelo:": "Estado:",
-          "Estado:": "Peso Kg.:",
-          "Peso Kg.:": "Observaciones:",
-          "Observaciones:": ""
-        }
-      },
-      {
-        "imgStatic": "20239969_1_213072023_1874806.webp",
-        "nro": 1,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20239969_1_213072023_1874806.jpg",
-        "details": {
-          "Descripción:": "Características:",
-          "Características:": "Cantidad:",
-          "Cantidad:": "Unidad de Medida:",
-          "Unidad de Medida:": "Industria:",
-          "Industria:": "Fecha Vencimiento:",
-          "Fecha Vencimiento:": "Modelo:",
-          "Modelo:": "Estado:",
-          "Estado:": "Peso Kg.:",
-          "Peso Kg.:": "Observaciones:",
-          "Observaciones:": ""
-        }
-      },
-      {
-        "imgStatic": "20239969_1_313072023_1875011.webp",
-        "nro": 2,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20239969_1_313072023_1875011.jpg",
-        "details": {
-          "Descripción:": "Características:",
-          "Características:": "Cantidad:",
-          "Cantidad:": "Unidad de Medida:",
-          "Unidad de Medida:": "Industria:",
-          "Industria:": "Fecha Vencimiento:",
-          "Fecha Vencimiento:": "Modelo:",
-          "Modelo:": "Estado:",
-          "Estado:": "Peso Kg.:",
-          "Peso Kg.:": "Observaciones:",
-          "Observaciones:": ""
-        }
-      },
-      {
-        "imgStatic": "20239969_2_113072023_1875114.webp",
-        "nro": 3,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20239969_2_113072023_1875114.jpg",
-        "details": {
-          "Descripción:": "Características:",
-          "Características:": "Cantidad:",
-          "Cantidad:": "Unidad de Medida:",
-          "Unidad de Medida:": "Industria:",
-          "Industria:": "Fecha Vencimiento:",
-          "Fecha Vencimiento:": "Modelo:",
-          "Modelo:": "Estado:",
-          "Estado:": "Peso Kg.:",
-          "Peso Kg.:": "Observaciones:",
-          "Observaciones:": ""
-        }
-      },
-      {
-        "imgStatic": "20239969_2_213072023_1875334.webp",
-        "nro": 4,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20239969_2_213072023_1875334.jpg",
-        "details": {
-          "Descripción:": "Características:",
-          "Características:": "Cantidad:",
-          "Cantidad:": "Unidad de Medida:",
-          "Unidad de Medida:": "Industria:",
-          "Industria:": "Fecha Vencimiento:",
-          "Fecha Vencimiento:": "Modelo:",
-          "Modelo:": "Estado:",
-          "Estado:": "Peso Kg.:",
-          "Peso Kg.:": "Observaciones:",
-          "Observaciones:": ""
-        }
-      }
-    ]
-  },
-  {
-    "id": "202312509",
-    "lote": "2509",
-    "administracion_aduanera": "ADUANA INTERIOR LA PAZ",
-    "clasificacion": "POLERAS DEPORTIVAS PARA VARON",
-    "recinto": "ALMACEN 3-MERCANCIA",
-    "direccion": "AV.6 DE MARZO S/N KM",
-    "fecha_subasta": "02/10/2023",
-    "dias_restantes": "3 día(s)",
-    "detailItems": [
-      {
-        "imgStatic": "202215428_1_123112022_18115853.webp",
-        "nro": 0,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/202215428_1_123112022_18115853.jpg",
-        "details": {
-          "Descripción:": "Características:",
-          "Características:": "Cantidad:",
-          "Cantidad:": "Unidad de Medida:",
-          "Unidad de Medida:": "Industria:",
-          "Industria:": "Fecha Vencimiento:",
-          "Fecha Vencimiento:": "Modelo:",
-          "Modelo:": "Estado:",
-          "Estado:": "Peso Kg.:",
-          "Peso Kg.:": "Observaciones:",
-          "Observaciones:": ""
-        }
-      }
-    ]
-  },
-  {
-    "id": "202312519",
-    "lote": "2519",
-    "administracion_aduanera": "ADUANA INTERIOR LA PAZ",
-    "clasificacion": "GUATOS, PARTES PARA FABRICAR CALZADO",
-    "recinto": "ALMACEN 4-MERCANCIA",
-    "direccion": "AV.6 DE MARZO S/N KM",
-    "fecha_subasta": "02/10/2023",
-    "dias_restantes": "3 día(s)",
-    "detailItems": [
-      {
-        "imgStatic": "20239708_1_105072023_1675218.webp",
-        "nro": 0,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20239708_1_105072023_1675218.jpg",
-        "details": {
-          "Descripción:": "Características:",
-          "Características:": "Cantidad:",
-          "Cantidad:": "Unidad de Medida:",
-          "Unidad de Medida:": "Industria:",
-          "Industria:": "Fecha Vencimiento:",
-          "Fecha Vencimiento:": "Modelo:",
-          "Modelo:": "Estado:",
-          "Estado:": "Peso Kg.:",
-          "Peso Kg.:": "Observaciones:",
-          "Observaciones:": ""
-        }
-      },
-      {
-        "imgStatic": "20239708_2_105072023_1675306.webp",
-        "nro": 1,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20239708_2_105072023_1675306.jpg",
-        "details": {
-          "Descripción:": "Características:",
-          "Características:": "Cantidad:",
-          "Cantidad:": "Unidad de Medida:",
-          "Unidad de Medida:": "Industria:",
-          "Industria:": "Fecha Vencimiento:",
-          "Fecha Vencimiento:": "Modelo:",
-          "Modelo:": "Estado:",
-          "Estado:": "Peso Kg.:",
-          "Peso Kg.:": "Observaciones:",
-          "Observaciones:": ""
-        }
-      }
-    ]
-  },
-  {
-    "id": "202312544",
-    "lote": "2544",
-    "administracion_aduanera": "ADUANA AEROPUERTO EL ALTO",
-    "clasificacion": "JUGUETES SEXUALES",
-    "recinto": "ALBO AEROPUERTO",
-    "direccion": "AEROPUERTO INTERNACIONAL EL ALTO",
-    "fecha_subasta": "02/10/2023",
-    "dias_restantes": "3 día(s)",
-    "detailItems": [
-      {
-        "imgStatic": "20231008605072023_1272404b1_i1.webp",
-        "nro": 0,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20231008605072023_1272404b1_i1.jpg",
-        "details": {
-          "Descripción:": "Características:",
-          "Características:": "Cantidad:",
-          "Cantidad:": "Unidad de Medida:",
-          "Unidad de Medida:": "Industria:",
-          "Industria:": "Fecha Vencimiento:",
-          "Fecha Vencimiento:": "Modelo:",
-          "Modelo:": "Estado:",
-          "Estado:": "Peso Kg.:",
-          "Peso Kg.:": "Observaciones:",
-          "Observaciones:": ""
-        }
-      }
-    ]
-  },
-  {
-    "id": "202312549",
-    "lote": "2549",
-    "administracion_aduanera": "ADUANA AEROPUERTO EL ALTO",
-    "clasificacion": "MANTA",
-    "recinto": "ALBO AEROPUERTO",
-    "direccion": "AEROPUERTO INTERNACIONAL EL ALTO",
-    "fecha_subasta": "02/10/2023",
-    "dias_restantes": "3 día(s)",
-    "detailItems": [
-      {
-        "imgStatic": "20231280516082023_1082558b1_i1.webp",
-        "nro": 0,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20231280516082023_1082558b1_i1.jpg",
-        "details": {
-          "Descripción:": "Características:",
-          "Características:": "Cantidad:",
-          "Cantidad:": "Unidad de Medida:",
-          "Unidad de Medida:": "Industria:",
-          "Industria:": "Fecha Vencimiento:",
-          "Fecha Vencimiento:": "Modelo:",
-          "Modelo:": "Estado:",
-          "Estado:": "Peso Kg.:",
-          "Peso Kg.:": "Observaciones:",
-          "Observaciones:": ""
-        }
-      }
-    ]
-  },
-  {
-    "id": "202312554",
-    "lote": "2554",
-    "administracion_aduanera": "ADUANA AEROPUERTO EL ALTO",
-    "clasificacion": "GAFAS",
-    "recinto": "ALBO AEROPUERTO",
-    "direccion": "AEROPUERTO INTERNACIONAL EL ALTO",
-    "fecha_subasta": "02/10/2023",
-    "dias_restantes": "3 día(s)",
-    "detailItems": [
-      {
-        "imgStatic": "20231310921082023_1081921b1_i1.webp",
-        "nro": 0,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20231310921082023_1081921b1_i1.jpg",
-        "details": {
-          "Descripción:": "Características:",
-          "Características:": "Cantidad:",
-          "Cantidad:": "Unidad de Medida:",
-          "Unidad de Medida:": "Industria:",
-          "Industria:": "Fecha Vencimiento:",
-          "Fecha Vencimiento:": "Modelo:",
-          "Modelo:": "Estado:",
-          "Estado:": "Peso Kg.:",
-          "Peso Kg.:": "Observaciones:",
-          "Observaciones:": ""
-        }
-      }
-    ]
-  },
-  {
-    "id": "202312569",
-    "lote": "2569",
-    "administracion_aduanera": "ADUANA AEROPUERTO EL ALTO",
-    "clasificacion": "DELANTAR",
-    "recinto": "ALBO AEROPUERTO",
-    "direccion": "AEROPUERTO INTERNACIONAL EL ALTO",
-    "fecha_subasta": "02/10/2023",
-    "dias_restantes": "3 día(s)",
-    "detailItems": [
-      {
-        "imgStatic": "20231347925082023_1384928b1_i1.webp",
-        "nro": 0,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20231347925082023_1384928b1_i1.jpg",
-        "details": {
-          "Descripción:": "Características:",
-          "Características:": "Cantidad:",
-          "Cantidad:": "Unidad de Medida:",
-          "Unidad de Medida:": "Industria:",
-          "Industria:": "Fecha Vencimiento:",
-          "Fecha Vencimiento:": "Modelo:",
-          "Modelo:": "Estado:",
-          "Estado:": "Peso Kg.:",
-          "Peso Kg.:": "Observaciones:",
-          "Observaciones:": ""
-        }
-      }
-    ]
-  },
-  {
-    "id": "202312514",
-    "lote": "2514",
-    "administracion_aduanera": "ADUANA INTERIOR SANTA CRUZ",
-    "clasificacion": "LIMADOR PARA PIES",
-    "recinto": "ALBO SANTA CRUZ",
-    "direccion": "AV. BRASIL, RADIAL 8 ENTRE 3 Y 4 ANILLO",
-    "fecha_subasta": "02/10/2023",
-    "dias_restantes": "3 día(s)",
-    "detailItems": [
-      {
-        "imgStatic": "20239461_5_124062023_1463717.webp",
-        "nro": 0,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20239461_5_124062023_1463717.jpg",
-        "details": {
-          "Descripción:": "Características:",
-          "Características:": "Cantidad:",
-          "Cantidad:": "Unidad de Medida:",
-          "Unidad de Medida:": "Industria:",
-          "Industria:": "Fecha Vencimiento:",
-          "Fecha Vencimiento:": "Modelo:",
-          "Modelo:": "Estado:",
-          "Estado:": "Peso Kg.:",
-          "Peso Kg.:": "Observaciones:",
-          "Observaciones:": ""
-        }
-      }
-    ]
-  },
-  {
-    "id": "202312529",
-    "lote": "2529",
-    "administracion_aduanera": "ADUANA INTERIOR SANTA CRUZ",
-    "clasificacion": "CONJUNTO DE MONTAJE, ANILLO, ANILLOS, ETC",
-    "recinto": "ALBO SANTA CRUZ",
-    "direccion": "AV. BRASIL, RADIAL 8 ENTRE 3 Y 4 ANILLO",
-    "fecha_subasta": "02/10/2023",
-    "dias_restantes": "3 día(s)",
-    "detailItems": [
-      {
-        "imgStatic": "20237746_1_109062023_1464400.webp",
-        "nro": 0,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20237746_1_109062023_1464400.jpg",
-        "details": {
-          "Descripción:": "Características:",
-          "Características:": "Cantidad:",
-          "Cantidad:": "Unidad de Medida:",
-          "Unidad de Medida:": "Industria:",
-          "Industria:": "Fecha Vencimiento:",
-          "Fecha Vencimiento:": "Modelo:",
-          "Modelo:": "Estado:",
-          "Estado:": "Peso Kg.:",
-          "Peso Kg.:": "Observaciones:",
-          "Observaciones:": ""
-        }
-      },
-      {
-        "imgStatic": "20237746_1_209062023_1464734.webp",
-        "nro": 1,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20237746_1_209062023_1464734.jpg",
-        "details": {
-          "Descripción:": "Características:",
-          "Características:": "Cantidad:",
-          "Cantidad:": "Unidad de Medida:",
-          "Unidad de Medida:": "Industria:",
-          "Industria:": "Fecha Vencimiento:",
-          "Fecha Vencimiento:": "Modelo:",
-          "Modelo:": "Estado:",
-          "Estado:": "Peso Kg.:",
-          "Peso Kg.:": "Observaciones:",
-          "Observaciones:": ""
-        }
-      },
-      {
-        "imgStatic": "20237746_1_309062023_1465059.webp",
-        "nro": 2,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20237746_1_309062023_1465059.jpg",
-        "details": {
-          "Descripción:": "Características:",
-          "Características:": "Cantidad:",
-          "Cantidad:": "Unidad de Medida:",
-          "Unidad de Medida:": "Industria:",
-          "Industria:": "Fecha Vencimiento:",
-          "Fecha Vencimiento:": "Modelo:",
-          "Modelo:": "Estado:",
-          "Estado:": "Peso Kg.:",
-          "Peso Kg.:": "Observaciones:",
-          "Observaciones:": ""
-        }
-      },
-      {
-        "imgStatic": "20237746_1_409062023_1465548.webp",
-        "nro": 3,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20237746_1_409062023_1465548.jpg",
-        "details": {
-          "Descripción:": "Características:",
-          "Características:": "Cantidad:",
-          "Cantidad:": "Unidad de Medida:",
-          "Unidad de Medida:": "Industria:",
-          "Industria:": "Fecha Vencimiento:",
-          "Fecha Vencimiento:": "Modelo:",
-          "Modelo:": "Estado:",
-          "Estado:": "Peso Kg.:",
-          "Peso Kg.:": "Observaciones:",
-          "Observaciones:": ""
-        }
-      },
-      {
-        "imgStatic": "20237746_1_509062023_1465638.webp",
-        "nro": 4,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20237746_1_509062023_1465638.jpg",
-        "details": {
-          "Descripción:": "Características:",
-          "Características:": "Cantidad:",
-          "Cantidad:": "Unidad de Medida:",
-          "Unidad de Medida:": "Industria:",
-          "Industria:": "Fecha Vencimiento:",
-          "Fecha Vencimiento:": "Modelo:",
-          "Modelo:": "Estado:",
-          "Estado:": "Peso Kg.:",
-          "Peso Kg.:": "Observaciones:",
-          "Observaciones:": ""
-        }
-      },
-      {
-        "imgStatic": "20237746_1_609062023_1465824.webp",
-        "nro": 5,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20237746_1_609062023_1465824.jpg",
-        "details": {
-          "Descripción:": "Características:",
-          "Características:": "Cantidad:",
-          "Cantidad:": "Unidad de Medida:",
-          "Unidad de Medida:": "Industria:",
-          "Industria:": "Fecha Vencimiento:",
-          "Fecha Vencimiento:": "Modelo:",
-          "Modelo:": "Estado:",
-          "Estado:": "Peso Kg.:",
-          "Peso Kg.:": "Observaciones:",
-          "Observaciones:": ""
-        }
-      },
-      {
-        "imgStatic": "20237746_1_709062023_1560002.webp",
-        "nro": 6,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20237746_1_709062023_1560002.jpg",
-        "details": {
-          "Descripción:": "Características:",
-          "Características:": "Cantidad:",
-          "Cantidad:": "Unidad de Medida:",
-          "Unidad de Medida:": "Industria:",
-          "Industria:": "Fecha Vencimiento:",
-          "Fecha Vencimiento:": "Modelo:",
-          "Modelo:": "Estado:",
-          "Estado:": "Peso Kg.:",
-          "Peso Kg.:": "Observaciones:",
-          "Observaciones:": ""
-        }
-      },
-      {
-        "imgStatic": "20237746_1_809062023_1560919.webp",
-        "nro": 7,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20237746_1_809062023_1560919.jpg",
-        "details": {
-          "Descripción:": "Características:",
-          "Características:": "Cantidad:",
-          "Cantidad:": "Unidad de Medida:",
-          "Unidad de Medida:": "Industria:",
-          "Industria:": "Fecha Vencimiento:",
-          "Fecha Vencimiento:": "Modelo:",
-          "Modelo:": "Estado:",
-          "Estado:": "Peso Kg.:",
-          "Peso Kg.:": "Observaciones:",
-          "Observaciones:": ""
-        }
-      },
-      {
-        "imgStatic": "20237746_1_909062023_1562558.webp",
-        "nro": 8,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20237746_1_909062023_1562558.jpg",
-        "details": {
-          "Descripción:": "Características:",
-          "Características:": "Cantidad:",
-          "Cantidad:": "Unidad de Medida:",
-          "Unidad de Medida:": "Industria:",
-          "Industria:": "Fecha Vencimiento:",
-          "Fecha Vencimiento:": "Modelo:",
-          "Modelo:": "Estado:",
-          "Estado:": "Peso Kg.:",
-          "Peso Kg.:": "Observaciones:",
-          "Observaciones:": ""
-        }
-      },
-      {
-        "imgStatic": "20237746_2_109062023_1565358.webp",
-        "nro": 9,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20237746_2_109062023_1565358.jpg",
-        "details": {
-          "Descripción:": "Características:",
-          "Características:": "Cantidad:",
-          "Cantidad:": "Unidad de Medida:",
-          "Unidad de Medida:": "Industria:",
-          "Industria:": "Fecha Vencimiento:",
-          "Fecha Vencimiento:": "Modelo:",
-          "Modelo:": "Estado:",
-          "Estado:": "Peso Kg.:",
-          "Peso Kg.:": "Observaciones:",
-          "Observaciones:": ""
-        }
-      },
-      {
-        "imgStatic": "20237746_2_209062023_1565539.webp",
-        "nro": 10,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20237746_2_209062023_1565539.jpg",
-        "details": {
-          "Descripción:": "Características:",
-          "Características:": "Cantidad:",
-          "Cantidad:": "Unidad de Medida:",
-          "Unidad de Medida:": "Industria:",
-          "Industria:": "Fecha Vencimiento:",
-          "Fecha Vencimiento:": "Modelo:",
-          "Modelo:": "Estado:",
-          "Estado:": "Peso Kg.:",
-          "Peso Kg.:": "Observaciones:",
-          "Observaciones:": ""
-        }
-      },
-      {
-        "imgStatic": "20237746_2_309062023_1660111.webp",
-        "nro": 11,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20237746_2_309062023_1660111.jpg",
-        "details": {
-          "Descripción:": "Características:",
-          "Características:": "Cantidad:",
-          "Cantidad:": "Unidad de Medida:",
-          "Unidad de Medida:": "Industria:",
-          "Industria:": "Fecha Vencimiento:",
-          "Fecha Vencimiento:": "Modelo:",
-          "Modelo:": "Estado:",
-          "Estado:": "Peso Kg.:",
-          "Peso Kg.:": "Observaciones:",
-          "Observaciones:": ""
-        }
-      },
-      {
-        "imgStatic": "20237746_2_409062023_1660256.webp",
-        "nro": 12,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20237746_2_409062023_1660256.jpg",
-        "details": {
-          "Descripción:": "Características:",
-          "Características:": "Cantidad:",
-          "Cantidad:": "Unidad de Medida:",
-          "Unidad de Medida:": "Industria:",
-          "Industria:": "Fecha Vencimiento:",
-          "Fecha Vencimiento:": "Modelo:",
-          "Modelo:": "Estado:",
-          "Estado:": "Peso Kg.:",
-          "Peso Kg.:": "Observaciones:",
-          "Observaciones:": ""
-        }
-      },
-      {
-        "imgStatic": "20237746_2_509062023_1660429.webp",
-        "nro": 13,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20237746_2_509062023_1660429.jpg",
-        "details": {
-          "Descripción:": "Características:",
-          "Características:": "Cantidad:",
-          "Cantidad:": "Unidad de Medida:",
-          "Unidad de Medida:": "Industria:",
-          "Industria:": "Fecha Vencimiento:",
-          "Fecha Vencimiento:": "Modelo:",
-          "Modelo:": "Estado:",
-          "Estado:": "Peso Kg.:",
-          "Peso Kg.:": "Observaciones:",
-          "Observaciones:": ""
-        }
-      },
-      {
-        "imgStatic": "20237746_2_609062023_1660636.webp",
-        "nro": 14,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20237746_2_609062023_1660636.jpg",
-        "details": {
-          "Descripción:": "Características:",
-          "Características:": "Cantidad:",
-          "Cantidad:": "Unidad de Medida:",
-          "Unidad de Medida:": "Industria:",
-          "Industria:": "Fecha Vencimiento:",
-          "Fecha Vencimiento:": "Modelo:",
-          "Modelo:": "Estado:",
-          "Estado:": "Peso Kg.:",
-          "Peso Kg.:": "Observaciones:",
-          "Observaciones:": ""
-        }
-      },
-      {
-        "imgStatic": "20237746_2_709062023_1660911.webp",
-        "nro": 15,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20237746_2_709062023_1660911.jpg",
-        "details": {
-          "Descripción:": "Características:",
-          "Características:": "Cantidad:",
-          "Cantidad:": "Unidad de Medida:",
-          "Unidad de Medida:": "Industria:",
-          "Industria:": "Fecha Vencimiento:",
-          "Fecha Vencimiento:": "Modelo:",
-          "Modelo:": "Estado:",
-          "Estado:": "Peso Kg.:",
-          "Peso Kg.:": "Observaciones:",
-          "Observaciones:": ""
-        }
-      },
-      {
-        "imgStatic": "20237746_2_809062023_1663206.webp",
-        "nro": 16,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20237746_2_809062023_1663206.jpg",
-        "details": {
-          "Descripción:": "Características:",
-          "Características:": "Cantidad:",
-          "Cantidad:": "Unidad de Medida:",
-          "Unidad de Medida:": "Industria:",
-          "Industria:": "Fecha Vencimiento:",
-          "Fecha Vencimiento:": "Modelo:",
-          "Modelo:": "Estado:",
-          "Estado:": "Peso Kg.:",
-          "Peso Kg.:": "Observaciones:",
-          "Observaciones:": ""
-        }
-      },
-      {
-        "imgStatic": "20237746_2_909062023_1663552.webp",
-        "nro": 17,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20237746_2_909062023_1663552.jpg",
-        "details": {
-          "Descripción:": "Características:",
-          "Características:": "Cantidad:",
-          "Cantidad:": "Unidad de Medida:",
-          "Unidad de Medida:": "Industria:",
-          "Industria:": "Fecha Vencimiento:",
-          "Fecha Vencimiento:": "Modelo:",
-          "Modelo:": "Estado:",
-          "Estado:": "Peso Kg.:",
-          "Peso Kg.:": "Observaciones:",
-          "Observaciones:": ""
-        }
-      },
-      {
-        "imgStatic": "20237746_2_1009062023_1663731.webp",
-        "nro": 18,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20237746_2_1009062023_1663731.jpg",
-        "details": {
-          "Descripción:": "Características:",
-          "Características:": "Cantidad:",
-          "Cantidad:": "Unidad de Medida:",
-          "Unidad de Medida:": "Industria:",
-          "Industria:": "Fecha Vencimiento:",
-          "Fecha Vencimiento:": "Modelo:",
-          "Modelo:": "Estado:",
-          "Estado:": "Peso Kg.:",
-          "Peso Kg.:": "Observaciones:",
-          "Observaciones:": ""
-        }
-      },
-      {
-        "imgStatic": "20237746_2_1109062023_1664234.webp",
-        "nro": 19,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20237746_2_1109062023_1664234.jpg",
-        "details": {
-          "Descripción:": "Características:",
-          "Características:": "Cantidad:",
-          "Cantidad:": "Unidad de Medida:",
-          "Unidad de Medida:": "Industria:",
-          "Industria:": "Fecha Vencimiento:",
-          "Fecha Vencimiento:": "Modelo:",
-          "Modelo:": "Estado:",
-          "Estado:": "Peso Kg.:",
-          "Peso Kg.:": "Observaciones:",
-          "Observaciones:": ""
-        }
-      }
-    ]
-  },
-  {
-    "id": "202312534",
-    "lote": "2534",
-    "administracion_aduanera": "ADUANA AEROPUERTO VIRU VIRU",
-    "clasificacion": "MICROMOTOR PULIDO PARA LABORATORIO DENTAL",
-    "recinto": "VIRU VIRU - ALBO",
-    "direccion": "KM. 11 CARRETERA AL NORTE",
-    "fecha_subasta": "02/10/2023",
-    "dias_restantes": "3 día(s)",
-    "detailItems": [
-      {
-        "imgStatic": "20237640_1_228062023_1263015.webp",
-        "nro": 0,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20237640_1_228062023_1263015.jpg",
-        "details": {
-          "Descripción:": "Características:",
-          "Características:": "Cantidad:",
-          "Cantidad:": "Unidad de Medida:",
-          "Unidad de Medida:": "Industria:",
-          "Industria:": "Fecha Vencimiento:",
-          "Fecha Vencimiento:": "Modelo:",
-          "Modelo:": "Estado:",
-          "Estado:": "Peso Kg.:",
-          "Peso Kg.:": "Observaciones:",
-          "Observaciones:": ""
-        }
-      }
-    ]
-  },
-  {
-    "id": "202312539",
-    "lote": "2539",
-    "administracion_aduanera": "ADUANA AEROPUERTO VIRU VIRU",
-    "clasificacion": "FILTRO DE ACEITE HIDRAULICO, BOMBA DE ACEITE HIDRÀLICA, SELLOS DE ACEITE",
-    "recinto": "VIRU VIRU - ALBO",
-    "direccion": "KM. 11 CARRETERA AL NORTE",
-    "fecha_subasta": "02/10/2023",
-    "dias_restantes": "3 día(s)",
-    "detailItems": [
-      {
-        "imgStatic": "202312370_1_109082023_1582952.webp",
-        "nro": 0,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/202312370_1_109082023_1582952.jpg",
-        "details": {
-          "Descripción:": "Características:",
-          "Características:": "Cantidad:",
-          "Cantidad:": "Unidad de Medida:",
-          "Unidad de Medida:": "Industria:",
-          "Industria:": "Fecha Vencimiento:",
-          "Fecha Vencimiento:": "Modelo:",
-          "Modelo:": "Estado:",
-          "Estado:": "Peso Kg.:",
-          "Peso Kg.:": "Observaciones:",
-          "Observaciones:": ""
-        }
-      },
-      {
-        "imgStatic": "202312370_1_209082023_1584542.webp",
-        "nro": 1,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/202312370_1_209082023_1584542.jpg",
-        "details": {
-          "Descripción:": "Características:",
-          "Características:": "Cantidad:",
-          "Cantidad:": "Unidad de Medida:",
-          "Unidad de Medida:": "Industria:",
-          "Industria:": "Fecha Vencimiento:",
-          "Fecha Vencimiento:": "Modelo:",
-          "Modelo:": "Estado:",
-          "Estado:": "Peso Kg.:",
-          "Peso Kg.:": "Observaciones:",
-          "Observaciones:": ""
-        }
-      },
-      {
-        "imgStatic": "202312370_1_309082023_1584953.webp",
-        "nro": 2,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/202312370_1_309082023_1584953.jpg",
-        "details": {
-          "Descripción:": "Características:",
-          "Características:": "Cantidad:",
-          "Cantidad:": "Unidad de Medida:",
-          "Unidad de Medida:": "Industria:",
-          "Industria:": "Fecha Vencimiento:",
-          "Fecha Vencimiento:": "Modelo:",
-          "Modelo:": "Estado:",
-          "Estado:": "Peso Kg.:",
-          "Peso Kg.:": "Observaciones:",
-          "Observaciones:": ""
-        }
-      }
-    ]
-  },
-  {
-    "id": "202312559",
-    "lote": "2559",
-    "administracion_aduanera": "ADUANA AEROPUERTO VIRU VIRU",
-    "clasificacion": "DISCO DE VINILO",
-    "recinto": "ALBO VIRU VIRU",
-    "direccion": "AEROPUERTO INTERNACIONAL VIRU VIRU",
-    "fecha_subasta": "02/10/2023",
-    "dias_restantes": "3 día(s)",
-    "detailItems": [
-      {
-        "imgStatic": "20231326623082023_1083522b1_i1.webp",
-        "nro": 0,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20231326623082023_1083522b1_i1.jpg",
-        "details": {
-          "Descripción:": "Características:",
-          "Características:": "Cantidad:",
-          "Cantidad:": "Unidad de Medida:",
-          "Unidad de Medida:": "Industria:",
-          "Industria:": "Fecha Vencimiento:",
-          "Fecha Vencimiento:": "Modelo:",
-          "Modelo:": "Estado:",
-          "Estado:": "Peso Kg.:",
-          "Peso Kg.:": "Observaciones:",
-          "Observaciones:": ""
-        }
-      }
-    ]
-  },
-  {
-    "id": "202312564",
-    "lote": "2564",
-    "administracion_aduanera": "ADUANA AEROPUERTO VIRU VIRU",
-    "clasificacion": "LIBRO",
-    "recinto": "ALBO VIRU VIRU",
-    "direccion": "AEROPUERTO INTERNACIONAL VIRU VIRU",
-    "fecha_subasta": "02/10/2023",
-    "dias_restantes": "3 día(s)",
-    "detailItems": [
-      {
-        "imgStatic": "20231332323082023_1585438b1_i1.webp",
-        "nro": 0,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20231332323082023_1585438b1_i1.jpg",
-        "details": {
-          "Descripción:": "Características:",
-          "Características:": "Cantidad:",
-          "Cantidad:": "Unidad de Medida:",
-          "Unidad de Medida:": "Industria:",
-          "Industria:": "Fecha Vencimiento:",
-          "Fecha Vencimiento:": "Modelo:",
-          "Modelo:": "Estado:",
-          "Estado:": "Peso Kg.:",
-          "Peso Kg.:": "Observaciones:",
-          "Observaciones:": ""
-        }
-      }
-    ]
-  },
-  {
-    "id": "202312574",
-    "lote": "2574",
-    "administracion_aduanera": "ADUANA AEROPUERTO VIRU VIRU",
-    "clasificacion": "HERRAMIENTA",
-    "recinto": "ALBO VIRU VIRU",
-    "direccion": "AEROPUERTO INTERNACIONAL VIRU VIRU",
-    "fecha_subasta": "02/10/2023",
-    "dias_restantes": "3 día(s)",
-    "detailItems": [
-      {
-        "imgStatic": "20231434407092023_1193247b1_i1.webp",
-        "nro": 0,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20231434407092023_1193247b1_i1.jpg",
-        "details": {
-          "Descripción:": "Características:",
-          "Características:": "Cantidad:",
-          "Cantidad:": "Unidad de Medida:",
-          "Unidad de Medida:": "Industria:",
-          "Industria:": "Fecha Vencimiento:",
-          "Fecha Vencimiento:": "Modelo:",
-          "Modelo:": "Estado:",
-          "Estado:": "Peso Kg.:",
-          "Peso Kg.:": "Observaciones:",
-          "Observaciones:": ""
-        }
-      }
-    ]
-  },
-  {
-    "id": "202312579",
-    "lote": "2579",
-    "administracion_aduanera": "ADUANA AEROPUERTO VIRU VIRU",
-    "clasificacion": "SILVER OXIDE, APARATO DE AUDICION",
-    "recinto": "ALBO VIRU VIRU",
-    "direccion": "AEROPUERTO INTERNACIONAL VIRU VIRU",
-    "fecha_subasta": "02/10/2023",
-    "dias_restantes": "3 día(s)",
-    "detailItems": [
-      {
-        "imgStatic": "20231435107092023_1295433b1_i2.webp",
-        "nro": 0,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20231435107092023_1295433b1_i2.jpg",
-        "details": {
-          "Descripción:": "Características:",
-          "Características:": "Cantidad:",
-          "Cantidad:": "Unidad de Medida:",
-          "Unidad de Medida:": "Industria:",
-          "Industria:": "Fecha Vencimiento:",
-          "Fecha Vencimiento:": "Modelo:",
-          "Modelo:": "Estado:",
-          "Estado:": "Peso Kg.:",
-          "Peso Kg.:": "Observaciones:",
-          "Observaciones:": ""
-        }
-      },
-      {
-        "imgStatic": "20231435107092023_1295433b1_i3.webp",
-        "nro": 1,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20231435107092023_1295433b1_i3.jpg",
-        "details": {
-          "Descripción:": "Características:",
-          "Características:": "Cantidad:",
-          "Cantidad:": "Unidad de Medida:",
-          "Unidad de Medida:": "Industria:",
-          "Industria:": "Fecha Vencimiento:",
-          "Fecha Vencimiento:": "Modelo:",
-          "Modelo:": "Estado:",
-          "Estado:": "Peso Kg.:",
-          "Peso Kg.:": "Observaciones:",
-          "Observaciones:": ""
-        }
-      }
-    ]
-  },
-  {
-    "id": "202312584",
-    "lote": "2584",
-    "administracion_aduanera": "ADUANA AEROPUERTO VIRU VIRU",
-    "clasificacion": "PISCINA PORTATIL, HERRAMIENTA, COLCHON, ETC",
-    "recinto": "VIRU VIRU - DAB",
-    "direccion": "KM. 11 CARRETERA AL NORTE",
-    "fecha_subasta": "02/10/2023",
-    "dias_restantes": "3 día(s)",
-    "detailItems": [
-      {
-        "imgStatic": "20231390531082023_884625b1_i1.webp",
-        "nro": 0,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20231390531082023_884625b1_i1.jpg",
-        "details": {
-          "Descripción:": "Características:",
-          "Características:": "Cantidad:",
-          "Cantidad:": "Unidad de Medida:",
-          "Unidad de Medida:": "Industria:",
-          "Industria:": "Fecha Vencimiento:",
-          "Fecha Vencimiento:": "Modelo:",
-          "Modelo:": "Estado:",
-          "Estado:": "Peso Kg.:",
-          "Peso Kg.:": "Observaciones:",
-          "Observaciones:": ""
-        }
-      },
-      {
-        "imgStatic": "20231390531082023_884625b1_i2.webp",
-        "nro": 1,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20231390531082023_884625b1_i2.jpg",
-        "details": {
-          "Descripción:": "Características:",
-          "Características:": "Cantidad:",
-          "Cantidad:": "Unidad de Medida:",
-          "Unidad de Medida:": "Industria:",
-          "Industria:": "Fecha Vencimiento:",
-          "Fecha Vencimiento:": "Modelo:",
-          "Modelo:": "Estado:",
-          "Estado:": "Peso Kg.:",
-          "Peso Kg.:": "Observaciones:",
-          "Observaciones:": ""
-        }
-      },
-      {
-        "imgStatic": "20231390531082023_884625b1_i3.webp",
-        "nro": 2,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20231390531082023_884625b1_i3.jpg",
-        "details": {
-          "Descripción:": "Características:",
-          "Características:": "Cantidad:",
-          "Cantidad:": "Unidad de Medida:",
-          "Unidad de Medida:": "Industria:",
-          "Industria:": "Fecha Vencimiento:",
-          "Fecha Vencimiento:": "Modelo:",
-          "Modelo:": "Estado:",
-          "Estado:": "Peso Kg.:",
-          "Peso Kg.:": "Observaciones:",
-          "Observaciones:": ""
-        }
-      },
-      {
-        "imgStatic": "20231390531082023_884625b1_i4.webp",
-        "nro": 3,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20231390531082023_884625b1_i4.jpg",
-        "details": {
-          "Descripción:": "Características:",
-          "Características:": "Cantidad:",
-          "Cantidad:": "Unidad de Medida:",
-          "Unidad de Medida:": "Industria:",
-          "Industria:": "Fecha Vencimiento:",
-          "Fecha Vencimiento:": "Modelo:",
-          "Modelo:": "Estado:",
-          "Estado:": "Peso Kg.:",
-          "Peso Kg.:": "Observaciones:",
-          "Observaciones:": ""
-        }
-      },
-      {
-        "imgStatic": "20231390531082023_884625b2_i1.webp",
-        "nro": 4,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20231390531082023_884625b2_i1.jpg",
-        "details": {
-          "Descripción:": "Características:",
-          "Características:": "Cantidad:",
-          "Cantidad:": "Unidad de Medida:",
-          "Unidad de Medida:": "Industria:",
-          "Industria:": "Fecha Vencimiento:",
-          "Fecha Vencimiento:": "Modelo:",
-          "Modelo:": "Estado:",
-          "Estado:": "Peso Kg.:",
-          "Peso Kg.:": "Observaciones:",
-          "Observaciones:": ""
-        }
-      }
-    ]
-  },
-  {
-    "id": "202312589",
-    "lote": "2589",
-    "administracion_aduanera": "ADUANA AEROPUERTO VIRU VIRU",
-    "clasificacion": "MODULO DE CONTROL DEL VENTILADOR  DE REFRIGERACIÓN DEL MOTOR",
-    "recinto": "VIRU VIRU - DAB",
-    "direccion": "KM. 11 CARRETERA AL NORTE",
-    "fecha_subasta": "02/10/2023",
-    "dias_restantes": "3 día(s)",
-    "detailItems": [
-      {
-        "imgStatic": "20232871_1_101032023_133702.webp",
-        "nro": 0,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20232871_1_101032023_133702.jpg",
-        "details": {
-          "Descripción:": "Características:",
-          "Características:": "Cantidad:",
-          "Cantidad:": "Unidad de Medida:",
-          "Unidad de Medida:": "Industria:",
-          "Industria:": "Fecha Vencimiento:",
-          "Fecha Vencimiento:": "Modelo:",
-          "Modelo:": "Estado:",
-          "Estado:": "Peso Kg.:",
-          "Peso Kg.:": "Observaciones:",
-          "Observaciones:": ""
-        }
-      }
-    ]
-  },
-  {
-    "id": "202312524",
-    "lote": "2524",
-    "administracion_aduanera": "ADUANA Z.F.C. COBIJA",
-    "clasificacion": "SET DE SABANA CUBRE CAMA, CAPA COLCHON, CORTINA, ETC",
-    "recinto": "ALMACEN ZOFRACOBIJA",
-    "direccion": "KM 14/2 CARRETERA COBIJA A PORVENIR",
-    "fecha_subasta": "02/10/2023",
-    "dias_restantes": "3 día(s)",
-    "detailItems": [
-      {
-        "imgStatic": "202310421_1_110072023_1373938.webp",
-        "nro": 0,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/202310421_1_110072023_1373938.jpg",
-        "details": {
-          "Descripción:": "Características:",
-          "Características:": "Cantidad:",
-          "Cantidad:": "Unidad de Medida:",
-          "Unidad de Medida:": "Industria:",
-          "Industria:": "Fecha Vencimiento:",
-          "Fecha Vencimiento:": "Modelo:",
-          "Modelo:": "Estado:",
-          "Estado:": "Peso Kg.:",
-          "Peso Kg.:": "Observaciones:",
-          "Observaciones:": ""
-        }
-      },
-      {
-        "imgStatic": "202310421_1_210072023_1473728.webp",
-        "nro": 1,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/202310421_1_210072023_1473728.jpg",
-        "details": {
-          "Descripción:": "Características:",
-          "Características:": "Cantidad:",
-          "Cantidad:": "Unidad de Medida:",
-          "Unidad de Medida:": "Industria:",
-          "Industria:": "Fecha Vencimiento:",
-          "Fecha Vencimiento:": "Modelo:",
-          "Modelo:": "Estado:",
-          "Estado:": "Peso Kg.:",
-          "Peso Kg.:": "Observaciones:",
-          "Observaciones:": ""
-        }
-      },
-      {
-        "imgStatic": "202310421_1_310072023_1474315.webp",
-        "nro": 2,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/202310421_1_310072023_1474315.jpg",
-        "details": {
-          "Descripción:": "Características:",
-          "Características:": "Cantidad:",
-          "Cantidad:": "Unidad de Medida:",
-          "Unidad de Medida:": "Industria:",
-          "Industria:": "Fecha Vencimiento:",
-          "Fecha Vencimiento:": "Modelo:",
-          "Modelo:": "Estado:",
-          "Estado:": "Peso Kg.:",
-          "Peso Kg.:": "Observaciones:",
-          "Observaciones:": ""
-        }
-      },
-      {
-        "imgStatic": "202310421_1_410072023_1474518.webp",
-        "nro": 3,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/202310421_1_410072023_1474518.jpg",
-        "details": {
-          "Descripción:": "Características:",
-          "Características:": "Cantidad:",
-          "Cantidad:": "Unidad de Medida:",
-          "Unidad de Medida:": "Industria:",
-          "Industria:": "Fecha Vencimiento:",
-          "Fecha Vencimiento:": "Modelo:",
-          "Modelo:": "Estado:",
-          "Estado:": "Peso Kg.:",
-          "Peso Kg.:": "Observaciones:",
-          "Observaciones:": ""
-        }
-      },
-      {
-        "imgStatic": "202310421_1_510072023_1474959.webp",
-        "nro": 4,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/202310421_1_510072023_1474959.jpg",
-        "details": {
-          "Descripción:": "Características:",
-          "Características:": "Cantidad:",
-          "Cantidad:": "Unidad de Medida:",
-          "Unidad de Medida:": "Industria:",
-          "Industria:": "Fecha Vencimiento:",
-          "Fecha Vencimiento:": "Modelo:",
-          "Modelo:": "Estado:",
-          "Estado:": "Peso Kg.:",
-          "Peso Kg.:": "Observaciones:",
-          "Observaciones:": ""
-        }
-      },
-      {
-        "imgStatic": "202310421_1_710072023_1570949.webp",
-        "nro": 5,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/202310421_1_710072023_1570949.jpg",
-        "details": {
-          "Descripción:": "Características:",
-          "Características:": "Cantidad:",
-          "Cantidad:": "Unidad de Medida:",
-          "Unidad de Medida:": "Industria:",
-          "Industria:": "Fecha Vencimiento:",
-          "Fecha Vencimiento:": "Modelo:",
-          "Modelo:": "Estado:",
-          "Estado:": "Peso Kg.:",
-          "Peso Kg.:": "Observaciones:",
-          "Observaciones:": ""
-        }
-      }
-    ]
-  },
-  {
-    "id": "202312545",
-    "lote": "2545",
-    "administracion_aduanera": "ADUANA AEROPUERTO EL ALTO",
-    "clasificacion": "BISUTERIA",
-    "recinto": "ALBO AEROPUERTO",
-    "direccion": "AEROPUERTO INTERNACIONAL EL ALTO",
-    "fecha_subasta": "03/10/2023",
-    "dias_restantes": "4 día(s)",
-    "detailItems": [
-      {
-        "imgStatic": "20231055309082023_2082453b2_i1.webp",
-        "nro": 0,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20231055309082023_2082453b2_i1.jpg",
-        "details": {
-          "Descripción:": "Características:",
-          "Características:": "Cantidad:",
-          "Cantidad:": "Unidad de Medida:",
-          "Unidad de Medida:": "Industria:",
-          "Industria:": "Fecha Vencimiento:",
-          "Fecha Vencimiento:": "Modelo:",
-          "Modelo:": "Estado:",
-          "Estado:": "Peso Kg.:",
-          "Peso Kg.:": "Observaciones:",
-          "Observaciones:": ""
-        }
-      }
-    ]
-  },
-  {
-    "id": "202312550",
-    "lote": "2550",
-    "administracion_aduanera": "ADUANA AEROPUERTO EL ALTO",
-    "clasificacion": "DISCO DE",
-    "recinto": "ALBO AEROPUERTO",
-    "direccion": "AEROPUERTO INTERNACIONAL EL ALTO",
-    "fecha_subasta": "03/10/2023",
-    "dias_restantes": "4 día(s)",
-    "detailItems": [
-      {
-        "imgStatic": "20231280916082023_1280941b1_i1.webp",
-        "nro": 0,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20231280916082023_1280941b1_i1.jpg",
-        "details": {
-          "Descripción:": "Características:",
-          "Características:": "Cantidad:",
-          "Cantidad:": "Unidad de Medida:",
-          "Unidad de Medida:": "Industria:",
-          "Industria:": "Fecha Vencimiento:",
-          "Fecha Vencimiento:": "Modelo:",
-          "Modelo:": "Estado:",
-          "Estado:": "Peso Kg.:",
-          "Peso Kg.:": "Observaciones:",
-          "Observaciones:": ""
-        }
-      }
-    ]
-  },
-  {
-    "id": "202312575",
-    "lote": "2575",
-    "administracion_aduanera": "ADUANA AEROPUERTO EL ALTO",
-    "clasificacion": "LIBROS",
-    "recinto": "ALBO AEROPUERTO",
-    "direccion": "AEROPUERTO INTERNACIONAL EL ALTO",
-    "fecha_subasta": "03/10/2023",
-    "dias_restantes": "4 día(s)",
-    "detailItems": [
-      {
-        "imgStatic": "20231434907092023_1293136b1_i1.webp",
-        "nro": 0,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20231434907092023_1293136b1_i1.jpg",
-        "details": {
-          "Descripción:": "Características:",
-          "Características:": "Cantidad:",
-          "Cantidad:": "Unidad de Medida:",
-          "Unidad de Medida:": "Industria:",
-          "Industria:": "Fecha Vencimiento:",
-          "Fecha Vencimiento:": "Modelo:",
-          "Modelo:": "Estado:",
-          "Estado:": "Peso Kg.:",
-          "Peso Kg.:": "Observaciones:",
-          "Observaciones:": ""
-        }
-      }
-    ]
-  },
-  {
-    "id": "202312530",
-    "lote": "2530",
+    "id": "202313036",
+    "lote": "3036",
     "administracion_aduanera": "ADUANA INTERIOR COCHABAMBA",
-    "clasificacion": "SENSOR DE SIGUEÑAL, KIT DE TENSOR (TENSIONER BELT), SELLO TIPO T ACEITE, ETC",
+    "clasificacion": "MOCHILAS, CARTERA, MEDIAS",
     "recinto": "ALMACEN 2",
     "direccion": "AV. VICTOR USTARIZ KM 7 1/2",
-    "fecha_subasta": "03/10/2023",
-    "dias_restantes": "4 día(s)",
+    "fecha_subasta": "17/11/2023",
+    "dias_restantes": "Hoy",
     "detailItems": [
       {
-        "imgStatic": "20217247_1_128092021_1293247.webp",
+        "imgStatic": "202214149_6_116112022_19115212.webp",
         "nro": 0,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20217247_1_128092021_1293247.jpg",
+        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/202214149_6_116112022_19115212.jpg",
         "details": {
           "Descripción:": "Características:",
           "Características:": "Cantidad:",
@@ -2477,9 +408,9 @@
         }
       },
       {
-        "imgStatic": "20217247_2_128092021_1293323.webp",
+        "imgStatic": "202214149_7_116112022_19112845.webp",
         "nro": 1,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20217247_2_128092021_1293323.jpg",
+        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/202214149_7_116112022_19112845.jpg",
         "details": {
           "Descripción:": "Características:",
           "Características:": "Cantidad:",
@@ -2494,9 +425,125 @@
         }
       },
       {
-        "imgStatic": "20217247_3_128092021_1391300.webp",
+        "imgStatic": "202214149_7_216112022_19114950.webp",
         "nro": 2,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20217247_3_128092021_1391300.jpg",
+        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/202214149_7_216112022_19114950.jpg",
+        "details": {
+          "Descripción:": "Características:",
+          "Características:": "Cantidad:",
+          "Cantidad:": "Unidad de Medida:",
+          "Unidad de Medida:": "Industria:",
+          "Industria:": "Fecha Vencimiento:",
+          "Fecha Vencimiento:": "Modelo:",
+          "Modelo:": "Estado:",
+          "Estado:": "Peso Kg.:",
+          "Peso Kg.:": "Observaciones:",
+          "Observaciones:": ""
+        }
+      }
+    ]
+  },
+  {
+    "id": "202313021",
+    "lote": "3021",
+    "administracion_aduanera": "ADUANA INTERIOR ORURO",
+    "clasificacion": "GUANTES DE TRABAJO",
+    "recinto": "RECINTO PASTO GRANDE",
+    "direccion": "PLAZA PASTO GRANDE- LOCALIDAD DE CARACOLLO",
+    "fecha_subasta": "17/11/2023",
+    "dias_restantes": "Hoy",
+    "detailItems": [
+      {
+        "imgStatic": "202312684_0_116082023_1780839.webp",
+        "nro": 0,
+        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/202312684_0_116082023_1780839.jpg",
+        "details": {
+          "Descripción:": "Características:",
+          "Características:": "Cantidad:",
+          "Cantidad:": "Unidad de Medida:",
+          "Unidad de Medida:": "Industria:",
+          "Industria:": "Fecha Vencimiento:",
+          "Fecha Vencimiento:": "Modelo:",
+          "Modelo:": "Estado:",
+          "Estado:": "Peso Kg.:",
+          "Peso Kg.:": "Observaciones:",
+          "Observaciones:": ""
+        }
+      }
+    ]
+  },
+  {
+    "id": "202313026",
+    "lote": "3026",
+    "administracion_aduanera": "ADUANA INTERIOR ORURO",
+    "clasificacion": "MÁQUINA DE PAN ELÉCTRICO",
+    "recinto": "RECINTO PASTO GRANDE",
+    "direccion": "PLAZA PASTO GRANDE- LOCALIDAD DE CARACOLLO",
+    "fecha_subasta": "17/11/2023",
+    "dias_restantes": "Hoy",
+    "detailItems": [
+      {
+        "imgStatic": "202314653_1_115092023_1891936.webp",
+        "nro": 0,
+        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/202314653_1_115092023_1891936.jpg",
+        "details": {
+          "Descripción:": "Características:",
+          "Características:": "Cantidad:",
+          "Cantidad:": "Unidad de Medida:",
+          "Unidad de Medida:": "Industria:",
+          "Industria:": "Fecha Vencimiento:",
+          "Fecha Vencimiento:": "Modelo:",
+          "Modelo:": "Estado:",
+          "Estado:": "Peso Kg.:",
+          "Peso Kg.:": "Observaciones:",
+          "Observaciones:": ""
+        }
+      }
+    ]
+  },
+  {
+    "id": "202313031",
+    "lote": "3031",
+    "administracion_aduanera": "ADUANA INTERIOR ORURO",
+    "clasificacion": "TRAPO",
+    "recinto": "RECINTO PASTO GRANDE",
+    "direccion": "PLAZA PASTO GRANDE- LOCALIDAD DE CARACOLLO",
+    "fecha_subasta": "17/11/2023",
+    "dias_restantes": "Hoy",
+    "detailItems": [
+      {
+        "imgStatic": "20235062_7_118042023_1944831.webp",
+        "nro": 0,
+        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20235062_7_118042023_1944831.jpg",
+        "details": {
+          "Descripción:": "Características:",
+          "Características:": "Cantidad:",
+          "Cantidad:": "Unidad de Medida:",
+          "Unidad de Medida:": "Industria:",
+          "Industria:": "Fecha Vencimiento:",
+          "Fecha Vencimiento:": "Modelo:",
+          "Modelo:": "Estado:",
+          "Estado:": "Peso Kg.:",
+          "Peso Kg.:": "Observaciones:",
+          "Observaciones:": ""
+        }
+      }
+    ]
+  },
+  {
+    "id": "202313041",
+    "lote": "3041",
+    "administracion_aduanera": "ADUANA INTERIOR ORURO",
+    "clasificacion": "JUGUETE",
+    "recinto": "RECINTO PASTO GRANDE",
+    "direccion": "PLAZA PASTO GRANDE- LOCALIDAD DE CARACOLLO",
+    "fecha_subasta": "17/11/2023",
+    "dias_restantes": "Hoy",
+    "detailItems": [
+      {
+        "imgStatic": "202314717_1_112092023_1791908.webp",
+        "nro": 0,
+        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/202314717_1_112092023_1791908.jpg",
         "details": {
           "Descripción:": "Características:",
           "Características:": "Cantidad:",
@@ -2511,9 +558,135 @@
         }
       },
       {
-        "imgStatic": "20217247_4_128092021_1391337.webp",
+        "imgStatic": "202314717_1_212092023_1792448.webp",
+        "nro": 1,
+        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/202314717_1_212092023_1792448.jpg",
+        "details": {
+          "Descripción:": "Características:",
+          "Características:": "Cantidad:",
+          "Cantidad:": "Unidad de Medida:",
+          "Unidad de Medida:": "Industria:",
+          "Industria:": "Fecha Vencimiento:",
+          "Fecha Vencimiento:": "Modelo:",
+          "Modelo:": "Estado:",
+          "Estado:": "Peso Kg.:",
+          "Peso Kg.:": "Observaciones:",
+          "Observaciones:": ""
+        }
+      },
+      {
+        "imgStatic": "202314717_1_312092023_1793348.webp",
+        "nro": 2,
+        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/202314717_1_312092023_1793348.jpg",
+        "details": {
+          "Descripción:": "Características:",
+          "Características:": "Cantidad:",
+          "Cantidad:": "Unidad de Medida:",
+          "Unidad de Medida:": "Industria:",
+          "Industria:": "Fecha Vencimiento:",
+          "Fecha Vencimiento:": "Modelo:",
+          "Modelo:": "Estado:",
+          "Estado:": "Peso Kg.:",
+          "Peso Kg.:": "Observaciones:",
+          "Observaciones:": ""
+        }
+      }
+    ]
+  },
+  {
+    "id": "202313046",
+    "lote": "3046",
+    "administracion_aduanera": "ADUANA INTERIOR ORURO",
+    "clasificacion": "PILOTO INTERMITENTE, GUIÑADOR, CUBIERTA DE FAROL, ETC",
+    "recinto": "RECINTO PASTO GRANDE",
+    "direccion": "PLAZA PASTO GRANDE- LOCALIDAD DE CARACOLLO",
+    "fecha_subasta": "17/11/2023",
+    "dias_restantes": "Hoy",
+    "detailItems": [
+      {
+        "imgStatic": "202314103_1_106092023_1592633.webp",
+        "nro": 0,
+        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/202314103_1_106092023_1592633.jpg",
+        "details": {
+          "Descripción:": "Características:",
+          "Características:": "Cantidad:",
+          "Cantidad:": "Unidad de Medida:",
+          "Unidad de Medida:": "Industria:",
+          "Industria:": "Fecha Vencimiento:",
+          "Fecha Vencimiento:": "Modelo:",
+          "Modelo:": "Estado:",
+          "Estado:": "Peso Kg.:",
+          "Peso Kg.:": "Observaciones:",
+          "Observaciones:": ""
+        }
+      },
+      {
+        "imgStatic": "202314103_1_206092023_1592809.webp",
+        "nro": 1,
+        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/202314103_1_206092023_1592809.jpg",
+        "details": {
+          "Descripción:": "Características:",
+          "Características:": "Cantidad:",
+          "Cantidad:": "Unidad de Medida:",
+          "Unidad de Medida:": "Industria:",
+          "Industria:": "Fecha Vencimiento:",
+          "Fecha Vencimiento:": "Modelo:",
+          "Modelo:": "Estado:",
+          "Estado:": "Peso Kg.:",
+          "Peso Kg.:": "Observaciones:",
+          "Observaciones:": ""
+        }
+      },
+      {
+        "imgStatic": "202314103_1_306092023_1690740.webp",
+        "nro": 2,
+        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/202314103_1_306092023_1690740.jpg",
+        "details": {
+          "Descripción:": "Características:",
+          "Características:": "Cantidad:",
+          "Cantidad:": "Unidad de Medida:",
+          "Unidad de Medida:": "Industria:",
+          "Industria:": "Fecha Vencimiento:",
+          "Fecha Vencimiento:": "Modelo:",
+          "Modelo:": "Estado:",
+          "Estado:": "Peso Kg.:",
+          "Peso Kg.:": "Observaciones:",
+          "Observaciones:": ""
+        }
+      },
+      {
+        "imgStatic": "202314103_2_106092023_1594908.webp",
         "nro": 3,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20217247_4_128092021_1391337.jpg",
+        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/202314103_2_106092023_1594908.jpg",
+        "details": {
+          "Descripción:": "Características:",
+          "Características:": "Cantidad:",
+          "Cantidad:": "Unidad de Medida:",
+          "Unidad de Medida:": "Industria:",
+          "Industria:": "Fecha Vencimiento:",
+          "Fecha Vencimiento:": "Modelo:",
+          "Modelo:": "Estado:",
+          "Estado:": "Peso Kg.:",
+          "Peso Kg.:": "Observaciones:",
+          "Observaciones:": ""
+        }
+      }
+    ]
+  },
+  {
+    "id": "202313051",
+    "lote": "3051",
+    "administracion_aduanera": "ADUANA INTERIOR ORURO",
+    "clasificacion": "FAROL FAENA, SET LLAVES DADO, SET LLAVES DE FILTRO DE ACEITE, ETC",
+    "recinto": "RECINTO PASTO GRANDE",
+    "direccion": "PLAZA PASTO GRANDE- LOCALIDAD DE CARACOLLO",
+    "fecha_subasta": "17/11/2023",
+    "dias_restantes": "Hoy",
+    "detailItems": [
+      {
+        "imgStatic": "202313433_1_131082023_1982055.webp",
+        "nro": 0,
+        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/202313433_1_131082023_1982055.jpg",
         "details": {
           "Descripción:": "Características:",
           "Características:": "Cantidad:",
@@ -2528,9 +701,60 @@
         }
       },
       {
-        "imgStatic": "20217247_5_128092021_1391411.webp",
+        "imgStatic": "202313433_2_131082023_1982943.webp",
+        "nro": 1,
+        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/202313433_2_131082023_1982943.jpg",
+        "details": {
+          "Descripción:": "Características:",
+          "Características:": "Cantidad:",
+          "Cantidad:": "Unidad de Medida:",
+          "Unidad de Medida:": "Industria:",
+          "Industria:": "Fecha Vencimiento:",
+          "Fecha Vencimiento:": "Modelo:",
+          "Modelo:": "Estado:",
+          "Estado:": "Peso Kg.:",
+          "Peso Kg.:": "Observaciones:",
+          "Observaciones:": ""
+        }
+      },
+      {
+        "imgStatic": "202313433_2_231082023_1983453.webp",
+        "nro": 2,
+        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/202313433_2_231082023_1983453.jpg",
+        "details": {
+          "Descripción:": "Características:",
+          "Características:": "Cantidad:",
+          "Cantidad:": "Unidad de Medida:",
+          "Unidad de Medida:": "Industria:",
+          "Industria:": "Fecha Vencimiento:",
+          "Fecha Vencimiento:": "Modelo:",
+          "Modelo:": "Estado:",
+          "Estado:": "Peso Kg.:",
+          "Peso Kg.:": "Observaciones:",
+          "Observaciones:": ""
+        }
+      },
+      {
+        "imgStatic": "202313433_3_131082023_1985048.webp",
+        "nro": 3,
+        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/202313433_3_131082023_1985048.jpg",
+        "details": {
+          "Descripción:": "Características:",
+          "Características:": "Cantidad:",
+          "Cantidad:": "Unidad de Medida:",
+          "Unidad de Medida:": "Industria:",
+          "Industria:": "Fecha Vencimiento:",
+          "Fecha Vencimiento:": "Modelo:",
+          "Modelo:": "Estado:",
+          "Estado:": "Peso Kg.:",
+          "Peso Kg.:": "Observaciones:",
+          "Observaciones:": ""
+        }
+      },
+      {
+        "imgStatic": "202313433_4_131082023_1985417.webp",
         "nro": 4,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20217247_5_128092021_1391411.jpg",
+        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/202313433_4_131082023_1985417.jpg",
         "details": {
           "Descripción:": "Características:",
           "Características:": "Cantidad:",
@@ -2545,9 +769,9 @@
         }
       },
       {
-        "imgStatic": "20217247_6_128092021_1391443.webp",
+        "imgStatic": "202313433_5_131082023_1985918.webp",
         "nro": 5,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20217247_6_128092021_1391443.jpg",
+        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/202313433_5_131082023_1985918.jpg",
         "details": {
           "Descripción:": "Características:",
           "Características:": "Cantidad:",
@@ -2562,9 +786,9 @@
         }
       },
       {
-        "imgStatic": "20217247_7_128092021_1391517.webp",
+        "imgStatic": "202313433_5_231082023_2080125.webp",
         "nro": 6,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20217247_7_128092021_1391517.jpg",
+        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/202313433_5_231082023_2080125.jpg",
         "details": {
           "Descripción:": "Características:",
           "Características:": "Cantidad:",
@@ -2579,9 +803,9 @@
         }
       },
       {
-        "imgStatic": "20217247_8_128092021_1391537.webp",
+        "imgStatic": "202313433_6_131082023_2082721.webp",
         "nro": 7,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20217247_8_128092021_1391537.jpg",
+        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/202313433_6_131082023_2082721.jpg",
         "details": {
           "Descripción:": "Características:",
           "Características:": "Cantidad:",
@@ -2596,9 +820,9 @@
         }
       },
       {
-        "imgStatic": "20217247_9_128092021_1391602.webp",
+        "imgStatic": "202313433_6_231082023_2083000.webp",
         "nro": 8,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20217247_9_128092021_1391602.jpg",
+        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/202313433_6_231082023_2083000.jpg",
         "details": {
           "Descripción:": "Características:",
           "Características:": "Cantidad:",
@@ -2613,9 +837,9 @@
         }
       },
       {
-        "imgStatic": "20217247_10_128092021_1391627.webp",
+        "imgStatic": "202313433_6_331082023_2083143.webp",
         "nro": 9,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20217247_10_128092021_1391627.jpg",
+        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/202313433_6_331082023_2083143.jpg",
         "details": {
           "Descripción:": "Características:",
           "Características:": "Cantidad:",
@@ -2630,162 +854,9 @@
         }
       },
       {
-        "imgStatic": "20217247_11_128092021_1391649.webp",
+        "imgStatic": "202313433_6_431082023_2083529.webp",
         "nro": 10,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20217247_11_128092021_1391649.jpg",
-        "details": {
-          "Descripción:": "Características:",
-          "Características:": "Cantidad:",
-          "Cantidad:": "Unidad de Medida:",
-          "Unidad de Medida:": "Industria:",
-          "Industria:": "Fecha Vencimiento:",
-          "Fecha Vencimiento:": "Modelo:",
-          "Modelo:": "Estado:",
-          "Estado:": "Peso Kg.:",
-          "Peso Kg.:": "Observaciones:",
-          "Observaciones:": ""
-        }
-      },
-      {
-        "imgStatic": "20217247_12_128092021_1391711.webp",
-        "nro": 11,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20217247_12_128092021_1391711.jpg",
-        "details": {
-          "Descripción:": "Características:",
-          "Características:": "Cantidad:",
-          "Cantidad:": "Unidad de Medida:",
-          "Unidad de Medida:": "Industria:",
-          "Industria:": "Fecha Vencimiento:",
-          "Fecha Vencimiento:": "Modelo:",
-          "Modelo:": "Estado:",
-          "Estado:": "Peso Kg.:",
-          "Peso Kg.:": "Observaciones:",
-          "Observaciones:": ""
-        }
-      },
-      {
-        "imgStatic": "20217247_13_128092021_1391735.webp",
-        "nro": 12,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20217247_13_128092021_1391735.jpg",
-        "details": {
-          "Descripción:": "Características:",
-          "Características:": "Cantidad:",
-          "Cantidad:": "Unidad de Medida:",
-          "Unidad de Medida:": "Industria:",
-          "Industria:": "Fecha Vencimiento:",
-          "Fecha Vencimiento:": "Modelo:",
-          "Modelo:": "Estado:",
-          "Estado:": "Peso Kg.:",
-          "Peso Kg.:": "Observaciones:",
-          "Observaciones:": ""
-        }
-      },
-      {
-        "imgStatic": "20217247_14_128092021_1391809.webp",
-        "nro": 13,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20217247_14_128092021_1391809.jpg",
-        "details": {
-          "Descripción:": "Características:",
-          "Características:": "Cantidad:",
-          "Cantidad:": "Unidad de Medida:",
-          "Unidad de Medida:": "Industria:",
-          "Industria:": "Fecha Vencimiento:",
-          "Fecha Vencimiento:": "Modelo:",
-          "Modelo:": "Estado:",
-          "Estado:": "Peso Kg.:",
-          "Peso Kg.:": "Observaciones:",
-          "Observaciones:": ""
-        }
-      },
-      {
-        "imgStatic": "20217247_15_128092021_1391832.webp",
-        "nro": 14,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20217247_15_128092021_1391832.jpg",
-        "details": {
-          "Descripción:": "Características:",
-          "Características:": "Cantidad:",
-          "Cantidad:": "Unidad de Medida:",
-          "Unidad de Medida:": "Industria:",
-          "Industria:": "Fecha Vencimiento:",
-          "Fecha Vencimiento:": "Modelo:",
-          "Modelo:": "Estado:",
-          "Estado:": "Peso Kg.:",
-          "Peso Kg.:": "Observaciones:",
-          "Observaciones:": ""
-        }
-      },
-      {
-        "imgStatic": "20217247_16_128092021_1391909.webp",
-        "nro": 15,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20217247_16_128092021_1391909.jpg",
-        "details": {
-          "Descripción:": "Características:",
-          "Características:": "Cantidad:",
-          "Cantidad:": "Unidad de Medida:",
-          "Unidad de Medida:": "Industria:",
-          "Industria:": "Fecha Vencimiento:",
-          "Fecha Vencimiento:": "Modelo:",
-          "Modelo:": "Estado:",
-          "Estado:": "Peso Kg.:",
-          "Peso Kg.:": "Observaciones:",
-          "Observaciones:": ""
-        }
-      },
-      {
-        "imgStatic": "20217247_17_128092021_1391936.webp",
-        "nro": 16,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20217247_17_128092021_1391936.jpg",
-        "details": {
-          "Descripción:": "Características:",
-          "Características:": "Cantidad:",
-          "Cantidad:": "Unidad de Medida:",
-          "Unidad de Medida:": "Industria:",
-          "Industria:": "Fecha Vencimiento:",
-          "Fecha Vencimiento:": "Modelo:",
-          "Modelo:": "Estado:",
-          "Estado:": "Peso Kg.:",
-          "Peso Kg.:": "Observaciones:",
-          "Observaciones:": ""
-        }
-      },
-      {
-        "imgStatic": "20217247_18_128092021_1391959.webp",
-        "nro": 17,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20217247_18_128092021_1391959.jpg",
-        "details": {
-          "Descripción:": "Características:",
-          "Características:": "Cantidad:",
-          "Cantidad:": "Unidad de Medida:",
-          "Unidad de Medida:": "Industria:",
-          "Industria:": "Fecha Vencimiento:",
-          "Fecha Vencimiento:": "Modelo:",
-          "Modelo:": "Estado:",
-          "Estado:": "Peso Kg.:",
-          "Peso Kg.:": "Observaciones:",
-          "Observaciones:": ""
-        }
-      },
-      {
-        "imgStatic": "20217247_19_128092021_1392022.webp",
-        "nro": 18,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20217247_19_128092021_1392022.jpg",
-        "details": {
-          "Descripción:": "Características:",
-          "Características:": "Cantidad:",
-          "Cantidad:": "Unidad de Medida:",
-          "Unidad de Medida:": "Industria:",
-          "Industria:": "Fecha Vencimiento:",
-          "Fecha Vencimiento:": "Modelo:",
-          "Modelo:": "Estado:",
-          "Estado:": "Peso Kg.:",
-          "Peso Kg.:": "Observaciones:",
-          "Observaciones:": ""
-        }
-      },
-      {
-        "imgStatic": "20217247_20_128092021_1392043.webp",
-        "nro": 19,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20217247_20_128092021_1392043.jpg",
+        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/202313433_6_431082023_2083529.jpg",
         "details": {
           "Descripción:": "Características:",
           "Características:": "Cantidad:",
@@ -2802,19 +873,19 @@
     ]
   },
   {
-    "id": "202312520",
-    "lote": "2520",
-    "administracion_aduanera": "ADUANA INTERIOR POTOSI",
-    "clasificacion": "FILTRO DE ACEITE, FILTRO DE AIRE",
-    "recinto": "PLAYA 1 (POTOSI)",
-    "direccion": "KARACHIPAMPA-EX AEROPUETO CAP. ROJAS KM 7 CAMINO A SUCRE",
-    "fecha_subasta": "03/10/2023",
-    "dias_restantes": "4 día(s)",
+    "id": "202313056",
+    "lote": "3056",
+    "administracion_aduanera": "ADUANA INTERIOR ORURO",
+    "clasificacion": "ORGANIZADOR DE ESCRITORIO, TAZA, POSILLO, ETC",
+    "recinto": "RECINTO PASTO GRANDE",
+    "direccion": "PLAZA PASTO GRANDE- LOCALIDAD DE CARACOLLO",
+    "fecha_subasta": "17/11/2023",
+    "dias_restantes": "Hoy",
     "detailItems": [
       {
-        "imgStatic": "202310275_10_120072023_1071049.webp",
+        "imgStatic": "202312828_11_09112023_14112440.webp",
         "nro": 0,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/202310275_10_120072023_1071049.jpg",
+        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/202312828_11_09112023_14112440.jpg",
         "details": {
           "Descripción:": "Características:",
           "Características:": "Cantidad:",
@@ -2829,9 +900,9 @@
         }
       },
       {
-        "imgStatic": "202310275_16_120072023_1373428.webp",
+        "imgStatic": "202312828_1_221082023_2281759.webp",
         "nro": 1,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/202310275_16_120072023_1373428.jpg",
+        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/202312828_1_221082023_2281759.jpg",
         "details": {
           "Descripción:": "Características:",
           "Características:": "Cantidad:",
@@ -2846,9 +917,9 @@
         }
       },
       {
-        "imgStatic": "202310275_24_120072023_1570251.webp",
+        "imgStatic": "202312828_1_321082023_2282111.webp",
         "nro": 2,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/202310275_24_120072023_1570251.jpg",
+        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/202312828_1_321082023_2282111.jpg",
         "details": {
           "Descripción:": "Características:",
           "Características:": "Cantidad:",
@@ -2863,9 +934,281 @@
         }
       },
       {
-        "imgStatic": "202310275_25_120072023_1571332.webp",
+        "imgStatic": "202312828_1_421082023_2283001.webp",
         "nro": 3,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/202310275_25_120072023_1571332.jpg",
+        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/202312828_1_421082023_2283001.jpg",
+        "details": {
+          "Descripción:": "Características:",
+          "Características:": "Cantidad:",
+          "Cantidad:": "Unidad de Medida:",
+          "Unidad de Medida:": "Industria:",
+          "Industria:": "Fecha Vencimiento:",
+          "Fecha Vencimiento:": "Modelo:",
+          "Modelo:": "Estado:",
+          "Estado:": "Peso Kg.:",
+          "Peso Kg.:": "Observaciones:",
+          "Observaciones:": ""
+        }
+      },
+      {
+        "imgStatic": "202312828_1_521082023_2283357.webp",
+        "nro": 4,
+        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/202312828_1_521082023_2283357.jpg",
+        "details": {
+          "Descripción:": "Características:",
+          "Características:": "Cantidad:",
+          "Cantidad:": "Unidad de Medida:",
+          "Unidad de Medida:": "Industria:",
+          "Industria:": "Fecha Vencimiento:",
+          "Fecha Vencimiento:": "Modelo:",
+          "Modelo:": "Estado:",
+          "Estado:": "Peso Kg.:",
+          "Peso Kg.:": "Observaciones:",
+          "Observaciones:": ""
+        }
+      },
+      {
+        "imgStatic": "202312828_3_121082023_2284246.webp",
+        "nro": 5,
+        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/202312828_3_121082023_2284246.jpg",
+        "details": {
+          "Descripción:": "Características:",
+          "Características:": "Cantidad:",
+          "Cantidad:": "Unidad de Medida:",
+          "Unidad de Medida:": "Industria:",
+          "Industria:": "Fecha Vencimiento:",
+          "Fecha Vencimiento:": "Modelo:",
+          "Modelo:": "Estado:",
+          "Estado:": "Peso Kg.:",
+          "Peso Kg.:": "Observaciones:",
+          "Observaciones:": ""
+        }
+      },
+      {
+        "imgStatic": "202312828_3_221082023_2284413.webp",
+        "nro": 6,
+        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/202312828_3_221082023_2284413.jpg",
+        "details": {
+          "Descripción:": "Características:",
+          "Características:": "Cantidad:",
+          "Cantidad:": "Unidad de Medida:",
+          "Unidad de Medida:": "Industria:",
+          "Industria:": "Fecha Vencimiento:",
+          "Fecha Vencimiento:": "Modelo:",
+          "Modelo:": "Estado:",
+          "Estado:": "Peso Kg.:",
+          "Peso Kg.:": "Observaciones:",
+          "Observaciones:": ""
+        }
+      },
+      {
+        "imgStatic": "202312828_3_321082023_2284751.webp",
+        "nro": 7,
+        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/202312828_3_321082023_2284751.jpg",
+        "details": {
+          "Descripción:": "Características:",
+          "Características:": "Cantidad:",
+          "Cantidad:": "Unidad de Medida:",
+          "Unidad de Medida:": "Industria:",
+          "Industria:": "Fecha Vencimiento:",
+          "Fecha Vencimiento:": "Modelo:",
+          "Modelo:": "Estado:",
+          "Estado:": "Peso Kg.:",
+          "Peso Kg.:": "Observaciones:",
+          "Observaciones:": ""
+        }
+      },
+      {
+        "imgStatic": "202312828_4_221082023_2380751.webp",
+        "nro": 8,
+        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/202312828_4_221082023_2380751.jpg",
+        "details": {
+          "Descripción:": "Características:",
+          "Características:": "Cantidad:",
+          "Cantidad:": "Unidad de Medida:",
+          "Unidad de Medida:": "Industria:",
+          "Industria:": "Fecha Vencimiento:",
+          "Fecha Vencimiento:": "Modelo:",
+          "Modelo:": "Estado:",
+          "Estado:": "Peso Kg.:",
+          "Peso Kg.:": "Observaciones:",
+          "Observaciones:": ""
+        }
+      },
+      {
+        "imgStatic": "202312828_5_121082023_2381738.webp",
+        "nro": 9,
+        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/202312828_5_121082023_2381738.jpg",
+        "details": {
+          "Descripción:": "Características:",
+          "Características:": "Cantidad:",
+          "Cantidad:": "Unidad de Medida:",
+          "Unidad de Medida:": "Industria:",
+          "Industria:": "Fecha Vencimiento:",
+          "Fecha Vencimiento:": "Modelo:",
+          "Modelo:": "Estado:",
+          "Estado:": "Peso Kg.:",
+          "Peso Kg.:": "Observaciones:",
+          "Observaciones:": ""
+        }
+      },
+      {
+        "imgStatic": "202312828_6_222082023_1080240.webp",
+        "nro": 10,
+        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/202312828_6_222082023_1080240.jpg",
+        "details": {
+          "Descripción:": "Características:",
+          "Características:": "Cantidad:",
+          "Cantidad:": "Unidad de Medida:",
+          "Unidad de Medida:": "Industria:",
+          "Industria:": "Fecha Vencimiento:",
+          "Fecha Vencimiento:": "Modelo:",
+          "Modelo:": "Estado:",
+          "Estado:": "Peso Kg.:",
+          "Peso Kg.:": "Observaciones:",
+          "Observaciones:": ""
+        }
+      },
+      {
+        "imgStatic": "202312828_6_322082023_1080644.webp",
+        "nro": 11,
+        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/202312828_6_322082023_1080644.jpg",
+        "details": {
+          "Descripción:": "Características:",
+          "Características:": "Cantidad:",
+          "Cantidad:": "Unidad de Medida:",
+          "Unidad de Medida:": "Industria:",
+          "Industria:": "Fecha Vencimiento:",
+          "Fecha Vencimiento:": "Modelo:",
+          "Modelo:": "Estado:",
+          "Estado:": "Peso Kg.:",
+          "Peso Kg.:": "Observaciones:",
+          "Observaciones:": ""
+        }
+      },
+      {
+        "imgStatic": "202312828_64_09112023_18113720.webp",
+        "nro": 12,
+        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/202312828_64_09112023_18113720.jpg",
+        "details": {
+          "Descripción:": "Características:",
+          "Características:": "Cantidad:",
+          "Cantidad:": "Unidad de Medida:",
+          "Unidad de Medida:": "Industria:",
+          "Industria:": "Fecha Vencimiento:",
+          "Fecha Vencimiento:": "Modelo:",
+          "Modelo:": "Estado:",
+          "Estado:": "Peso Kg.:",
+          "Peso Kg.:": "Observaciones:",
+          "Observaciones:": ""
+        }
+      },
+      {
+        "imgStatic": "202312828_7_122082023_1081454.webp",
+        "nro": 13,
+        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/202312828_7_122082023_1081454.jpg",
+        "details": {
+          "Descripción:": "Características:",
+          "Características:": "Cantidad:",
+          "Cantidad:": "Unidad de Medida:",
+          "Unidad de Medida:": "Industria:",
+          "Industria:": "Fecha Vencimiento:",
+          "Fecha Vencimiento:": "Modelo:",
+          "Modelo:": "Estado:",
+          "Estado:": "Peso Kg.:",
+          "Peso Kg.:": "Observaciones:",
+          "Observaciones:": ""
+        }
+      },
+      {
+        "imgStatic": "202312828_10_122082023_1083250.webp",
+        "nro": 14,
+        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/202312828_10_122082023_1083250.jpg",
+        "details": {
+          "Descripción:": "Características:",
+          "Características:": "Cantidad:",
+          "Cantidad:": "Unidad de Medida:",
+          "Unidad de Medida:": "Industria:",
+          "Industria:": "Fecha Vencimiento:",
+          "Fecha Vencimiento:": "Modelo:",
+          "Modelo:": "Estado:",
+          "Estado:": "Peso Kg.:",
+          "Peso Kg.:": "Observaciones:",
+          "Observaciones:": ""
+        }
+      },
+      {
+        "imgStatic": "202312828_11_122082023_1083429.webp",
+        "nro": 15,
+        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/202312828_11_122082023_1083429.jpg",
+        "details": {
+          "Descripción:": "Características:",
+          "Características:": "Cantidad:",
+          "Cantidad:": "Unidad de Medida:",
+          "Unidad de Medida:": "Industria:",
+          "Industria:": "Fecha Vencimiento:",
+          "Fecha Vencimiento:": "Modelo:",
+          "Modelo:": "Estado:",
+          "Estado:": "Peso Kg.:",
+          "Peso Kg.:": "Observaciones:",
+          "Observaciones:": ""
+        }
+      },
+      {
+        "imgStatic": "202312828_11_222082023_1083616.webp",
+        "nro": 16,
+        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/202312828_11_222082023_1083616.jpg",
+        "details": {
+          "Descripción:": "Características:",
+          "Características:": "Cantidad:",
+          "Cantidad:": "Unidad de Medida:",
+          "Unidad de Medida:": "Industria:",
+          "Industria:": "Fecha Vencimiento:",
+          "Fecha Vencimiento:": "Modelo:",
+          "Modelo:": "Estado:",
+          "Estado:": "Peso Kg.:",
+          "Peso Kg.:": "Observaciones:",
+          "Observaciones:": ""
+        }
+      },
+      {
+        "imgStatic": "202312828_11_322082023_1083755.webp",
+        "nro": 17,
+        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/202312828_11_322082023_1083755.jpg",
+        "details": {
+          "Descripción:": "Características:",
+          "Características:": "Cantidad:",
+          "Cantidad:": "Unidad de Medida:",
+          "Unidad de Medida:": "Industria:",
+          "Industria:": "Fecha Vencimiento:",
+          "Fecha Vencimiento:": "Modelo:",
+          "Modelo:": "Estado:",
+          "Estado:": "Peso Kg.:",
+          "Peso Kg.:": "Observaciones:",
+          "Observaciones:": ""
+        }
+      },
+      {
+        "imgStatic": "202312828_11_422082023_1083948.webp",
+        "nro": 18,
+        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/202312828_11_422082023_1083948.jpg",
+        "details": {
+          "Descripción:": "Características:",
+          "Características:": "Cantidad:",
+          "Cantidad:": "Unidad de Medida:",
+          "Unidad de Medida:": "Industria:",
+          "Industria:": "Fecha Vencimiento:",
+          "Fecha Vencimiento:": "Modelo:",
+          "Modelo:": "Estado:",
+          "Estado:": "Peso Kg.:",
+          "Peso Kg.:": "Observaciones:",
+          "Observaciones:": ""
+        }
+      },
+      {
+        "imgStatic": "202312828_11_522082023_1084051.webp",
+        "nro": 19,
+        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/202312828_11_522082023_1084051.jpg",
         "details": {
           "Descripción:": "Características:",
           "Características:": "Cantidad:",
@@ -2882,19 +1225,19 @@
     ]
   },
   {
-    "id": "202312510",
-    "lote": "2510",
-    "administracion_aduanera": "ADUANA YACUIBA",
-    "clasificacion": "LAMPARA DE LEDS",
-    "recinto": "ALBO CAMPO PAJOSO",
-    "direccion": "CARRETERA A SANTA CRUZ KM 14 S/N CAMPO PAJOSO",
-    "fecha_subasta": "03/10/2023",
-    "dias_restantes": "4 día(s)",
+    "id": "202313061",
+    "lote": "3061",
+    "administracion_aduanera": "ADUANA INTERIOR ORURO",
+    "clasificacion": "CAMISETA",
+    "recinto": "RECINTO PASTO GRANDE",
+    "direccion": "PLAZA PASTO GRANDE- LOCALIDAD DE CARACOLLO",
+    "fecha_subasta": "17/11/2023",
+    "dias_restantes": "Hoy",
     "detailItems": [
       {
-        "imgStatic": "202311004_51_19092023_1695902.webp",
+        "imgStatic": "202312120_1_119082023_982930.webp",
         "nro": 0,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/202311004_51_19092023_1695902.jpg",
+        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/202312120_1_119082023_982930.jpg",
         "details": {
           "Descripción:": "Características:",
           "Características:": "Cantidad:",
@@ -2911,48 +1254,354 @@
     ]
   },
   {
-    "id": "202312515",
-    "lote": "2515",
+    "id": "202313081",
+    "lote": "3081",
+    "administracion_aduanera": "ADUANA INTERIOR POTOSI",
+    "clasificacion": "VIRUTILLA, MARTILLO, MAQUINA DE AFEITAR, ETC",
+    "recinto": "GALPON 1",
+    "direccion": "KARACHIPAMPA-EX AEROPUETO CAP. ROJAS KM 7 CAMINO A SUCRE",
+    "fecha_subasta": "17/11/2023",
+    "dias_restantes": "Hoy",
+    "detailItems": [
+      {
+        "imgStatic": "20231547325092023_1491540b1_i1.webp",
+        "nro": 0,
+        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20231547325092023_1491540b1_i1.jpg",
+        "details": {
+          "Descripción:": "Características:",
+          "Características:": "Cantidad:",
+          "Cantidad:": "Unidad de Medida:",
+          "Unidad de Medida:": "Industria:",
+          "Industria:": "Fecha Vencimiento:",
+          "Fecha Vencimiento:": "Modelo:",
+          "Modelo:": "Estado:",
+          "Estado:": "Peso Kg.:",
+          "Peso Kg.:": "Observaciones:",
+          "Observaciones:": ""
+        }
+      },
+      {
+        "imgStatic": "20231547325092023_1491540b2_i1.webp",
+        "nro": 1,
+        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20231547325092023_1491540b2_i1.jpg",
+        "details": {
+          "Descripción:": "Características:",
+          "Características:": "Cantidad:",
+          "Cantidad:": "Unidad de Medida:",
+          "Unidad de Medida:": "Industria:",
+          "Industria:": "Fecha Vencimiento:",
+          "Fecha Vencimiento:": "Modelo:",
+          "Modelo:": "Estado:",
+          "Estado:": "Peso Kg.:",
+          "Peso Kg.:": "Observaciones:",
+          "Observaciones:": ""
+        }
+      },
+      {
+        "imgStatic": "20231547325092023_1491540b3_i1.webp",
+        "nro": 2,
+        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20231547325092023_1491540b3_i1.jpg",
+        "details": {
+          "Descripción:": "Características:",
+          "Características:": "Cantidad:",
+          "Cantidad:": "Unidad de Medida:",
+          "Unidad de Medida:": "Industria:",
+          "Industria:": "Fecha Vencimiento:",
+          "Fecha Vencimiento:": "Modelo:",
+          "Modelo:": "Estado:",
+          "Estado:": "Peso Kg.:",
+          "Peso Kg.:": "Observaciones:",
+          "Observaciones:": ""
+        }
+      },
+      {
+        "imgStatic": "20231547325092023_1491540b4_i1.webp",
+        "nro": 3,
+        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20231547325092023_1491540b4_i1.jpg",
+        "details": {
+          "Descripción:": "Características:",
+          "Características:": "Cantidad:",
+          "Cantidad:": "Unidad de Medida:",
+          "Unidad de Medida:": "Industria:",
+          "Industria:": "Fecha Vencimiento:",
+          "Fecha Vencimiento:": "Modelo:",
+          "Modelo:": "Estado:",
+          "Estado:": "Peso Kg.:",
+          "Peso Kg.:": "Observaciones:",
+          "Observaciones:": ""
+        }
+      },
+      {
+        "imgStatic": "20231547325092023_1491540b5_i1.webp",
+        "nro": 4,
+        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20231547325092023_1491540b5_i1.jpg",
+        "details": {
+          "Descripción:": "Características:",
+          "Características:": "Cantidad:",
+          "Cantidad:": "Unidad de Medida:",
+          "Unidad de Medida:": "Industria:",
+          "Industria:": "Fecha Vencimiento:",
+          "Fecha Vencimiento:": "Modelo:",
+          "Modelo:": "Estado:",
+          "Estado:": "Peso Kg.:",
+          "Peso Kg.:": "Observaciones:",
+          "Observaciones:": ""
+        }
+      },
+      {
+        "imgStatic": "20231547325092023_1491540b6_i1.webp",
+        "nro": 5,
+        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20231547325092023_1491540b6_i1.jpg",
+        "details": {
+          "Descripción:": "Características:",
+          "Características:": "Cantidad:",
+          "Cantidad:": "Unidad de Medida:",
+          "Unidad de Medida:": "Industria:",
+          "Industria:": "Fecha Vencimiento:",
+          "Fecha Vencimiento:": "Modelo:",
+          "Modelo:": "Estado:",
+          "Estado:": "Peso Kg.:",
+          "Peso Kg.:": "Observaciones:",
+          "Observaciones:": ""
+        }
+      },
+      {
+        "imgStatic": "20231547325092023_1491540b7_i1.webp",
+        "nro": 6,
+        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20231547325092023_1491540b7_i1.jpg",
+        "details": {
+          "Descripción:": "Características:",
+          "Características:": "Cantidad:",
+          "Cantidad:": "Unidad de Medida:",
+          "Unidad de Medida:": "Industria:",
+          "Industria:": "Fecha Vencimiento:",
+          "Fecha Vencimiento:": "Modelo:",
+          "Modelo:": "Estado:",
+          "Estado:": "Peso Kg.:",
+          "Peso Kg.:": "Observaciones:",
+          "Observaciones:": ""
+        }
+      },
+      {
+        "imgStatic": "20231547325092023_1491540b8_i1.webp",
+        "nro": 7,
+        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20231547325092023_1491540b8_i1.jpg",
+        "details": {
+          "Descripción:": "Características:",
+          "Características:": "Cantidad:",
+          "Cantidad:": "Unidad de Medida:",
+          "Unidad de Medida:": "Industria:",
+          "Industria:": "Fecha Vencimiento:",
+          "Fecha Vencimiento:": "Modelo:",
+          "Modelo:": "Estado:",
+          "Estado:": "Peso Kg.:",
+          "Peso Kg.:": "Observaciones:",
+          "Observaciones:": ""
+        }
+      },
+      {
+        "imgStatic": "20231547325092023_1491540b9_i1.webp",
+        "nro": 8,
+        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20231547325092023_1491540b9_i1.jpg",
+        "details": {
+          "Descripción:": "Características:",
+          "Características:": "Cantidad:",
+          "Cantidad:": "Unidad de Medida:",
+          "Unidad de Medida:": "Industria:",
+          "Industria:": "Fecha Vencimiento:",
+          "Fecha Vencimiento:": "Modelo:",
+          "Modelo:": "Estado:",
+          "Estado:": "Peso Kg.:",
+          "Peso Kg.:": "Observaciones:",
+          "Observaciones:": ""
+        }
+      },
+      {
+        "imgStatic": "20231547325092023_1491540b10_i1.webp",
+        "nro": 9,
+        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20231547325092023_1491540b10_i1.jpg",
+        "details": {
+          "Descripción:": "Características:",
+          "Características:": "Cantidad:",
+          "Cantidad:": "Unidad de Medida:",
+          "Unidad de Medida:": "Industria:",
+          "Industria:": "Fecha Vencimiento:",
+          "Fecha Vencimiento:": "Modelo:",
+          "Modelo:": "Estado:",
+          "Estado:": "Peso Kg.:",
+          "Peso Kg.:": "Observaciones:",
+          "Observaciones:": ""
+        }
+      },
+      {
+        "imgStatic": "20231547325092023_1491540b11_i1.webp",
+        "nro": 10,
+        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20231547325092023_1491540b11_i1.jpg",
+        "details": {
+          "Descripción:": "Características:",
+          "Características:": "Cantidad:",
+          "Cantidad:": "Unidad de Medida:",
+          "Unidad de Medida:": "Industria:",
+          "Industria:": "Fecha Vencimiento:",
+          "Fecha Vencimiento:": "Modelo:",
+          "Modelo:": "Estado:",
+          "Estado:": "Peso Kg.:",
+          "Peso Kg.:": "Observaciones:",
+          "Observaciones:": ""
+        }
+      },
+      {
+        "imgStatic": "20231547325092023_1491540b13_i1.webp",
+        "nro": 11,
+        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20231547325092023_1491540b13_i1.jpg",
+        "details": {
+          "Descripción:": "Características:",
+          "Características:": "Cantidad:",
+          "Cantidad:": "Unidad de Medida:",
+          "Unidad de Medida:": "Industria:",
+          "Industria:": "Fecha Vencimiento:",
+          "Fecha Vencimiento:": "Modelo:",
+          "Modelo:": "Estado:",
+          "Estado:": "Peso Kg.:",
+          "Peso Kg.:": "Observaciones:",
+          "Observaciones:": ""
+        }
+      },
+      {
+        "imgStatic": "20231547325092023_1491540b15_i1.webp",
+        "nro": 12,
+        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20231547325092023_1491540b15_i1.jpg",
+        "details": {
+          "Descripción:": "Características:",
+          "Características:": "Cantidad:",
+          "Cantidad:": "Unidad de Medida:",
+          "Unidad de Medida:": "Industria:",
+          "Industria:": "Fecha Vencimiento:",
+          "Fecha Vencimiento:": "Modelo:",
+          "Modelo:": "Estado:",
+          "Estado:": "Peso Kg.:",
+          "Peso Kg.:": "Observaciones:",
+          "Observaciones:": ""
+        }
+      },
+      {
+        "imgStatic": "20231547325092023_1491540b16_i1.webp",
+        "nro": 13,
+        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20231547325092023_1491540b16_i1.jpg",
+        "details": {
+          "Descripción:": "Características:",
+          "Características:": "Cantidad:",
+          "Cantidad:": "Unidad de Medida:",
+          "Unidad de Medida:": "Industria:",
+          "Industria:": "Fecha Vencimiento:",
+          "Fecha Vencimiento:": "Modelo:",
+          "Modelo:": "Estado:",
+          "Estado:": "Peso Kg.:",
+          "Peso Kg.:": "Observaciones:",
+          "Observaciones:": ""
+        }
+      },
+      {
+        "imgStatic": "20231547325092023_1491540b17_i1.webp",
+        "nro": 14,
+        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20231547325092023_1491540b17_i1.jpg",
+        "details": {
+          "Descripción:": "Características:",
+          "Características:": "Cantidad:",
+          "Cantidad:": "Unidad de Medida:",
+          "Unidad de Medida:": "Industria:",
+          "Industria:": "Fecha Vencimiento:",
+          "Fecha Vencimiento:": "Modelo:",
+          "Modelo:": "Estado:",
+          "Estado:": "Peso Kg.:",
+          "Peso Kg.:": "Observaciones:",
+          "Observaciones:": ""
+        }
+      },
+      {
+        "imgStatic": "20231547325092023_1491540b19_i1.webp",
+        "nro": 15,
+        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20231547325092023_1491540b19_i1.jpg",
+        "details": {
+          "Descripción:": "Características:",
+          "Características:": "Cantidad:",
+          "Cantidad:": "Unidad de Medida:",
+          "Unidad de Medida:": "Industria:",
+          "Industria:": "Fecha Vencimiento:",
+          "Fecha Vencimiento:": "Modelo:",
+          "Modelo:": "Estado:",
+          "Estado:": "Peso Kg.:",
+          "Peso Kg.:": "Observaciones:",
+          "Observaciones:": ""
+        }
+      },
+      {
+        "imgStatic": "20231547325092023_1491540b20_i1.webp",
+        "nro": 16,
+        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20231547325092023_1491540b20_i1.jpg",
+        "details": {
+          "Descripción:": "Características:",
+          "Características:": "Cantidad:",
+          "Cantidad:": "Unidad de Medida:",
+          "Unidad de Medida:": "Industria:",
+          "Industria:": "Fecha Vencimiento:",
+          "Fecha Vencimiento:": "Modelo:",
+          "Modelo:": "Estado:",
+          "Estado:": "Peso Kg.:",
+          "Peso Kg.:": "Observaciones:",
+          "Observaciones:": ""
+        }
+      },
+      {
+        "imgStatic": "20231547325092023_1491540b21_i1.webp",
+        "nro": 17,
+        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20231547325092023_1491540b21_i1.jpg",
+        "details": {
+          "Descripción:": "Características:",
+          "Características:": "Cantidad:",
+          "Cantidad:": "Unidad de Medida:",
+          "Unidad de Medida:": "Industria:",
+          "Industria:": "Fecha Vencimiento:",
+          "Fecha Vencimiento:": "Modelo:",
+          "Modelo:": "Estado:",
+          "Estado:": "Peso Kg.:",
+          "Peso Kg.:": "Observaciones:",
+          "Observaciones:": ""
+        }
+      },
+      {
+        "imgStatic": "20231547325092023_1491540b22_i1.webp",
+        "nro": 18,
+        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20231547325092023_1491540b22_i1.jpg",
+        "details": {
+          "Descripción:": "Características:",
+          "Características:": "Cantidad:",
+          "Cantidad:": "Unidad de Medida:",
+          "Unidad de Medida:": "Industria:",
+          "Industria:": "Fecha Vencimiento:",
+          "Fecha Vencimiento:": "Modelo:",
+          "Modelo:": "Estado:",
+          "Estado:": "Peso Kg.:",
+          "Peso Kg.:": "Observaciones:",
+          "Observaciones:": ""
+        }
+      }
+    ]
+  },
+  {
+    "id": "202313066",
+    "lote": "3066",
     "administracion_aduanera": "ADUANA INTERIOR SANTA CRUZ",
-    "clasificacion": "FILTRO DE CARBON",
+    "clasificacion": "CHALECO DE PESCA, CHALECO, PAÑOS LIMPIEZA, ETC",
     "recinto": "ALBO SANTA CRUZ",
     "direccion": "AV. BRASIL, RADIAL 8 ENTRE 3 Y 4 ANILLO",
-    "fecha_subasta": "03/10/2023",
-    "dias_restantes": "4 día(s)",
+    "fecha_subasta": "17/11/2023",
+    "dias_restantes": "Hoy",
     "detailItems": [
       {
-        "imgStatic": "20239618_1_230062023_1560227.webp",
+        "imgStatic": "20239792_1_129062023_1462929.webp",
         "nro": 0,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20239618_1_230062023_1560227.jpg",
-        "details": {
-          "Descripción:": "Características:",
-          "Características:": "Cantidad:",
-          "Cantidad:": "Unidad de Medida:",
-          "Unidad de Medida:": "Industria:",
-          "Industria:": "Fecha Vencimiento:",
-          "Fecha Vencimiento:": "Modelo:",
-          "Modelo:": "Estado:",
-          "Estado:": "Peso Kg.:",
-          "Peso Kg.:": "Observaciones:",
-          "Observaciones:": ""
-        }
-      }
-    ]
-  },
-  {
-    "id": "202312540",
-    "lote": "2540",
-    "administracion_aduanera": "ADUANA INTERIOR SANTA CRUZ",
-    "clasificacion": "ALTERNADOR, MOTOR DE ARRANQUE, BOMBA DE DIRECCION",
-    "recinto": "ALBO PAMPA DE LA ISLA",
-    "direccion": "CARRETERA A COTOCA ENTRE 4 Y 5 ANILLO, ZONA PAMPA DE LA ISLA",
-    "fecha_subasta": "03/10/2023",
-    "dias_restantes": "4 día(s)",
-    "detailItems": [
-      {
-        "imgStatic": "20237395_1_118052023_1955317.webp",
-        "nro": 0,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20237395_1_118052023_1955317.jpg",
+        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20239792_1_129062023_1462929.jpg",
         "details": {
           "Descripción:": "Características:",
           "Características:": "Cantidad:",
@@ -2967,9 +1616,9 @@
         }
       },
       {
-        "imgStatic": "20237395_2_118052023_1955546.webp",
+        "imgStatic": "20239792_2_129062023_1463410.webp",
         "nro": 1,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20237395_2_118052023_1955546.jpg",
+        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20239792_2_129062023_1463410.jpg",
         "details": {
           "Descripción:": "Características:",
           "Características:": "Cantidad:",
@@ -2984,183 +1633,9 @@
         }
       },
       {
-        "imgStatic": "20237395_3_118052023_1955825.webp",
+        "imgStatic": "20239792_3_129062023_1464206.webp",
         "nro": 2,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20237395_3_118052023_1955825.jpg",
-        "details": {
-          "Descripción:": "Características:",
-          "Características:": "Cantidad:",
-          "Cantidad:": "Unidad de Medida:",
-          "Unidad de Medida:": "Industria:",
-          "Industria:": "Fecha Vencimiento:",
-          "Fecha Vencimiento:": "Modelo:",
-          "Modelo:": "Estado:",
-          "Estado:": "Peso Kg.:",
-          "Peso Kg.:": "Observaciones:",
-          "Observaciones:": ""
-        }
-      }
-    ]
-  },
-  {
-    "id": "202312535",
-    "lote": "2535",
-    "administracion_aduanera": "ADUANA AEROPUERTO VIRU VIRU",
-    "clasificacion": "AUDIFONOS INALAMBRICOS",
-    "recinto": "VIRU VIRU - DAB",
-    "direccion": "KM. 11 CARRETERA AL NORTE",
-    "fecha_subasta": "03/10/2023",
-    "dias_restantes": "4 día(s)",
-    "detailItems": [
-      {
-        "imgStatic": "20238178_1_124062023_1264152.webp",
-        "nro": 0,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20238178_1_124062023_1264152.jpg",
-        "details": {
-          "Descripción:": "Características:",
-          "Características:": "Cantidad:",
-          "Cantidad:": "Unidad de Medida:",
-          "Unidad de Medida:": "Industria:",
-          "Industria:": "Fecha Vencimiento:",
-          "Fecha Vencimiento:": "Modelo:",
-          "Modelo:": "Estado:",
-          "Estado:": "Peso Kg.:",
-          "Peso Kg.:": "Observaciones:",
-          "Observaciones:": ""
-        }
-      }
-    ]
-  },
-  {
-    "id": "202312555",
-    "lote": "2555",
-    "administracion_aduanera": "ADUANA AEROPUERTO VIRU VIRU",
-    "clasificacion": "SET DE GAFAS DE SOL",
-    "recinto": "ALBO VIRU VIRU",
-    "direccion": "AEROPUERTO INTERNACIONAL VIRU VIRU",
-    "fecha_subasta": "03/10/2023",
-    "dias_restantes": "4 día(s)",
-    "detailItems": [
-      {
-        "imgStatic": "20231314221082023_1881629b1_i1.webp",
-        "nro": 0,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20231314221082023_1881629b1_i1.jpg",
-        "details": {
-          "Descripción:": "Características:",
-          "Características:": "Cantidad:",
-          "Cantidad:": "Unidad de Medida:",
-          "Unidad de Medida:": "Industria:",
-          "Industria:": "Fecha Vencimiento:",
-          "Fecha Vencimiento:": "Modelo:",
-          "Modelo:": "Estado:",
-          "Estado:": "Peso Kg.:",
-          "Peso Kg.:": "Observaciones:",
-          "Observaciones:": ""
-        }
-      }
-    ]
-  },
-  {
-    "id": "202312560",
-    "lote": "2560",
-    "administracion_aduanera": "ADUANA AEROPUERTO VIRU VIRU",
-    "clasificacion": "VASO TERMICO",
-    "recinto": "VIRU VIRU - DAB",
-    "direccion": "KM. 11 CARRETERA AL NORTE",
-    "fecha_subasta": "03/10/2023",
-    "dias_restantes": "4 día(s)",
-    "detailItems": [
-      {
-        "imgStatic": "20231327823082023_1182832b1_i1.webp",
-        "nro": 0,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20231327823082023_1182832b1_i1.jpg",
-        "details": {
-          "Descripción:": "Características:",
-          "Características:": "Cantidad:",
-          "Cantidad:": "Unidad de Medida:",
-          "Unidad de Medida:": "Industria:",
-          "Industria:": "Fecha Vencimiento:",
-          "Fecha Vencimiento:": "Modelo:",
-          "Modelo:": "Estado:",
-          "Estado:": "Peso Kg.:",
-          "Peso Kg.:": "Observaciones:",
-          "Observaciones:": ""
-        }
-      }
-    ]
-  },
-  {
-    "id": "202312565",
-    "lote": "2565",
-    "administracion_aduanera": "ADUANA AEROPUERTO VIRU VIRU",
-    "clasificacion": "TELA SINTETICA",
-    "recinto": "ALBO VIRU VIRU",
-    "direccion": "AEROPUERTO INTERNACIONAL VIRU VIRU",
-    "fecha_subasta": "03/10/2023",
-    "dias_restantes": "4 día(s)",
-    "detailItems": [
-      {
-        "imgStatic": "20231333423082023_1880021b1_i1.webp",
-        "nro": 0,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20231333423082023_1880021b1_i1.jpg",
-        "details": {
-          "Descripción:": "Características:",
-          "Características:": "Cantidad:",
-          "Cantidad:": "Unidad de Medida:",
-          "Unidad de Medida:": "Industria:",
-          "Industria:": "Fecha Vencimiento:",
-          "Fecha Vencimiento:": "Modelo:",
-          "Modelo:": "Estado:",
-          "Estado:": "Peso Kg.:",
-          "Peso Kg.:": "Observaciones:",
-          "Observaciones:": ""
-        }
-      }
-    ]
-  },
-  {
-    "id": "202312570",
-    "lote": "2570",
-    "administracion_aduanera": "ADUANA AEROPUERTO VIRU VIRU",
-    "clasificacion": "TABLETA GRAFICA",
-    "recinto": "ALBO VIRU VIRU",
-    "direccion": "AEROPUERTO INTERNACIONAL VIRU VIRU",
-    "fecha_subasta": "03/10/2023",
-    "dias_restantes": "4 día(s)",
-    "detailItems": [
-      {
-        "imgStatic": "20231387230082023_1883448b1_i1.webp",
-        "nro": 0,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20231387230082023_1883448b1_i1.jpg",
-        "details": {
-          "Descripción:": "Características:",
-          "Características:": "Cantidad:",
-          "Cantidad:": "Unidad de Medida:",
-          "Unidad de Medida:": "Industria:",
-          "Industria:": "Fecha Vencimiento:",
-          "Fecha Vencimiento:": "Modelo:",
-          "Modelo:": "Estado:",
-          "Estado:": "Peso Kg.:",
-          "Peso Kg.:": "Observaciones:",
-          "Observaciones:": ""
-        }
-      }
-    ]
-  },
-  {
-    "id": "202312580",
-    "lote": "2580",
-    "administracion_aduanera": "ADUANA AEROPUERTO VIRU VIRU",
-    "clasificacion": "CONJUNTO, TOP, SHORT",
-    "recinto": "ALBO VIRU VIRU",
-    "direccion": "AEROPUERTO INTERNACIONAL VIRU VIRU",
-    "fecha_subasta": "03/10/2023",
-    "dias_restantes": "4 día(s)",
-    "detailItems": [
-      {
-        "imgStatic": "20231342224082023_1983030b1_i1.webp",
-        "nro": 0,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20231342224082023_1983030b1_i1.jpg",
+        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20239792_3_129062023_1464206.jpg",
         "details": {
           "Descripción:": "Características:",
           "Características:": "Cantidad:",
@@ -3175,140 +1650,9 @@
         }
       },
       {
-        "imgStatic": "20231342224082023_1983030b1_i2.webp",
-        "nro": 1,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20231342224082023_1983030b1_i2.jpg",
-        "details": {
-          "Descripción:": "Características:",
-          "Características:": "Cantidad:",
-          "Cantidad:": "Unidad de Medida:",
-          "Unidad de Medida:": "Industria:",
-          "Industria:": "Fecha Vencimiento:",
-          "Fecha Vencimiento:": "Modelo:",
-          "Modelo:": "Estado:",
-          "Estado:": "Peso Kg.:",
-          "Peso Kg.:": "Observaciones:",
-          "Observaciones:": ""
-        }
-      },
-      {
-        "imgStatic": "20231342224082023_1983030b1_i3.webp",
-        "nro": 2,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20231342224082023_1983030b1_i3.jpg",
-        "details": {
-          "Descripción:": "Características:",
-          "Características:": "Cantidad:",
-          "Cantidad:": "Unidad de Medida:",
-          "Unidad de Medida:": "Industria:",
-          "Industria:": "Fecha Vencimiento:",
-          "Fecha Vencimiento:": "Modelo:",
-          "Modelo:": "Estado:",
-          "Estado:": "Peso Kg.:",
-          "Peso Kg.:": "Observaciones:",
-          "Observaciones:": ""
-        }
-      }
-    ]
-  },
-  {
-    "id": "202312585",
-    "lote": "2585",
-    "administracion_aduanera": "ADUANA AEROPUERTO VIRU VIRU",
-    "clasificacion": "ASPIRADORA, FUNDA DE LLAVE DE AUTO, FUNDA PARA ESPEJO RETROVISOR, ETC",
-    "recinto": "ALBO VIRU VIRU",
-    "direccion": "AEROPUERTO INTERNACIONAL VIRU VIRU",
-    "fecha_subasta": "03/10/2023",
-    "dias_restantes": "4 día(s)",
-    "detailItems": [
-      {
-        "imgStatic": "20231427906092023_1290629b1_i1.webp",
-        "nro": 0,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20231427906092023_1290629b1_i1.jpg",
-        "details": {
-          "Descripción:": "Características:",
-          "Características:": "Cantidad:",
-          "Cantidad:": "Unidad de Medida:",
-          "Unidad de Medida:": "Industria:",
-          "Industria:": "Fecha Vencimiento:",
-          "Fecha Vencimiento:": "Modelo:",
-          "Modelo:": "Estado:",
-          "Estado:": "Peso Kg.:",
-          "Peso Kg.:": "Observaciones:",
-          "Observaciones:": ""
-        }
-      },
-      {
-        "imgStatic": "20231427906092023_1290629b1_i2.webp",
-        "nro": 1,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20231427906092023_1290629b1_i2.jpg",
-        "details": {
-          "Descripción:": "Características:",
-          "Características:": "Cantidad:",
-          "Cantidad:": "Unidad de Medida:",
-          "Unidad de Medida:": "Industria:",
-          "Industria:": "Fecha Vencimiento:",
-          "Fecha Vencimiento:": "Modelo:",
-          "Modelo:": "Estado:",
-          "Estado:": "Peso Kg.:",
-          "Peso Kg.:": "Observaciones:",
-          "Observaciones:": ""
-        }
-      },
-      {
-        "imgStatic": "20231427906092023_1290629b1_i3.webp",
-        "nro": 2,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20231427906092023_1290629b1_i3.jpg",
-        "details": {
-          "Descripción:": "Características:",
-          "Características:": "Cantidad:",
-          "Cantidad:": "Unidad de Medida:",
-          "Unidad de Medida:": "Industria:",
-          "Industria:": "Fecha Vencimiento:",
-          "Fecha Vencimiento:": "Modelo:",
-          "Modelo:": "Estado:",
-          "Estado:": "Peso Kg.:",
-          "Peso Kg.:": "Observaciones:",
-          "Observaciones:": ""
-        }
-      },
-      {
-        "imgStatic": "20231427906092023_1290629b1_i4.webp",
+        "imgStatic": "20239792_4_129062023_1464415.webp",
         "nro": 3,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20231427906092023_1290629b1_i4.jpg",
-        "details": {
-          "Descripción:": "Características:",
-          "Características:": "Cantidad:",
-          "Cantidad:": "Unidad de Medida:",
-          "Unidad de Medida:": "Industria:",
-          "Industria:": "Fecha Vencimiento:",
-          "Fecha Vencimiento:": "Modelo:",
-          "Modelo:": "Estado:",
-          "Estado:": "Peso Kg.:",
-          "Peso Kg.:": "Observaciones:",
-          "Observaciones:": ""
-        }
-      },
-      {
-        "imgStatic": "20231427906092023_1290629b1_i5.webp",
-        "nro": 4,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20231427906092023_1290629b1_i5.jpg",
-        "details": {
-          "Descripción:": "Características:",
-          "Características:": "Cantidad:",
-          "Cantidad:": "Unidad de Medida:",
-          "Unidad de Medida:": "Industria:",
-          "Industria:": "Fecha Vencimiento:",
-          "Fecha Vencimiento:": "Modelo:",
-          "Modelo:": "Estado:",
-          "Estado:": "Peso Kg.:",
-          "Peso Kg.:": "Observaciones:",
-          "Observaciones:": ""
-        }
-      },
-      {
-        "imgStatic": "20231427906092023_1290629b1_i6.webp",
-        "nro": 5,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20231427906092023_1290629b1_i6.jpg",
+        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20239792_4_129062023_1464415.jpg",
         "details": {
           "Descripción:": "Características:",
           "Características:": "Cantidad:",
@@ -3325,184 +1669,19 @@
     ]
   },
   {
-    "id": "202312590",
-    "lote": "2590",
+    "id": "202312816",
+    "lote": "2816",
     "administracion_aduanera": "ADUANA AEROPUERTO VIRU VIRU",
-    "clasificacion": "CADENA, PULSERA/MANILLA",
-    "recinto": "VIRU VIRU - DAB",
-    "direccion": "KM. 11 CARRETERA AL NORTE",
-    "fecha_subasta": "03/10/2023",
-    "dias_restantes": "4 día(s)",
+    "clasificacion": "PANTALON",
+    "recinto": "ALBO VIRU VIRU",
+    "direccion": "AEROPUERTO INTERNACIONAL VIRU VIRU",
+    "fecha_subasta": "17/11/2023",
+    "dias_restantes": "Hoy",
     "detailItems": [
       {
-        "imgStatic": "20238181_1_120082023_1583353.webp",
+        "imgStatic": "20231528221092023_1893139b1_i1.webp",
         "nro": 0,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20238181_1_120082023_1583353.jpg",
-        "details": {
-          "Descripción:": "Características:",
-          "Características:": "Cantidad:",
-          "Cantidad:": "Unidad de Medida:",
-          "Unidad de Medida:": "Industria:",
-          "Industria:": "Fecha Vencimiento:",
-          "Fecha Vencimiento:": "Modelo:",
-          "Modelo:": "Estado:",
-          "Estado:": "Peso Kg.:",
-          "Peso Kg.:": "Observaciones:",
-          "Observaciones:": ""
-        }
-      },
-      {
-        "imgStatic": "20238181_1_220082023_1583556.webp",
-        "nro": 1,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20238181_1_220082023_1583556.jpg",
-        "details": {
-          "Descripción:": "Características:",
-          "Características:": "Cantidad:",
-          "Cantidad:": "Unidad de Medida:",
-          "Unidad de Medida:": "Industria:",
-          "Industria:": "Fecha Vencimiento:",
-          "Fecha Vencimiento:": "Modelo:",
-          "Modelo:": "Estado:",
-          "Estado:": "Peso Kg.:",
-          "Peso Kg.:": "Observaciones:",
-          "Observaciones:": ""
-        }
-      }
-    ]
-  },
-  {
-    "id": "202312525",
-    "lote": "2525",
-    "administracion_aduanera": "ADUANA Z.F.C. COBIJA",
-    "clasificacion": "GORRO PARA INVIERNO, GUANTE PARA INVIERNO",
-    "recinto": "ALMACEN ZOFRACOBIJA",
-    "direccion": "KM 14/2 CARRETERA COBIJA A PORVENIR",
-    "fecha_subasta": "03/10/2023",
-    "dias_restantes": "4 día(s)",
-    "detailItems": [
-      {
-        "imgStatic": "20239472_3_130062023_1664933.webp",
-        "nro": 0,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20239472_3_130062023_1664933.jpg",
-        "details": {
-          "Descripción:": "Características:",
-          "Características:": "Cantidad:",
-          "Cantidad:": "Unidad de Medida:",
-          "Unidad de Medida:": "Industria:",
-          "Industria:": "Fecha Vencimiento:",
-          "Fecha Vencimiento:": "Modelo:",
-          "Modelo:": "Estado:",
-          "Estado:": "Peso Kg.:",
-          "Peso Kg.:": "Observaciones:",
-          "Observaciones:": ""
-        }
-      },
-      {
-        "imgStatic": "20239472_3_230062023_1665107.webp",
-        "nro": 1,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20239472_3_230062023_1665107.jpg",
-        "details": {
-          "Descripción:": "Características:",
-          "Características:": "Cantidad:",
-          "Cantidad:": "Unidad de Medida:",
-          "Unidad de Medida:": "Industria:",
-          "Industria:": "Fecha Vencimiento:",
-          "Fecha Vencimiento:": "Modelo:",
-          "Modelo:": "Estado:",
-          "Estado:": "Peso Kg.:",
-          "Peso Kg.:": "Observaciones:",
-          "Observaciones:": ""
-        }
-      },
-      {
-        "imgStatic": "20239472_3_330062023_1665322.webp",
-        "nro": 2,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20239472_3_330062023_1665322.jpg",
-        "details": {
-          "Descripción:": "Características:",
-          "Características:": "Cantidad:",
-          "Cantidad:": "Unidad de Medida:",
-          "Unidad de Medida:": "Industria:",
-          "Industria:": "Fecha Vencimiento:",
-          "Fecha Vencimiento:": "Modelo:",
-          "Modelo:": "Estado:",
-          "Estado:": "Peso Kg.:",
-          "Peso Kg.:": "Observaciones:",
-          "Observaciones:": ""
-        }
-      },
-      {
-        "imgStatic": "20239472_4_130062023_1665922.webp",
-        "nro": 3,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20239472_4_130062023_1665922.jpg",
-        "details": {
-          "Descripción:": "Características:",
-          "Características:": "Cantidad:",
-          "Cantidad:": "Unidad de Medida:",
-          "Unidad de Medida:": "Industria:",
-          "Industria:": "Fecha Vencimiento:",
-          "Fecha Vencimiento:": "Modelo:",
-          "Modelo:": "Estado:",
-          "Estado:": "Peso Kg.:",
-          "Peso Kg.:": "Observaciones:",
-          "Observaciones:": ""
-        }
-      },
-      {
-        "imgStatic": "20239472_5_130062023_1760725.webp",
-        "nro": 4,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20239472_5_130062023_1760725.jpg",
-        "details": {
-          "Descripción:": "Características:",
-          "Características:": "Cantidad:",
-          "Cantidad:": "Unidad de Medida:",
-          "Unidad de Medida:": "Industria:",
-          "Industria:": "Fecha Vencimiento:",
-          "Fecha Vencimiento:": "Modelo:",
-          "Modelo:": "Estado:",
-          "Estado:": "Peso Kg.:",
-          "Peso Kg.:": "Observaciones:",
-          "Observaciones:": ""
-        }
-      },
-      {
-        "imgStatic": "20239472_6_130062023_1761303.webp",
-        "nro": 5,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20239472_6_130062023_1761303.jpg",
-        "details": {
-          "Descripción:": "Características:",
-          "Características:": "Cantidad:",
-          "Cantidad:": "Unidad de Medida:",
-          "Unidad de Medida:": "Industria:",
-          "Industria:": "Fecha Vencimiento:",
-          "Fecha Vencimiento:": "Modelo:",
-          "Modelo:": "Estado:",
-          "Estado:": "Peso Kg.:",
-          "Peso Kg.:": "Observaciones:",
-          "Observaciones:": ""
-        }
-      },
-      {
-        "imgStatic": "20239472_6_230062023_1761429.webp",
-        "nro": 6,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20239472_6_230062023_1761429.jpg",
-        "details": {
-          "Descripción:": "Características:",
-          "Características:": "Cantidad:",
-          "Cantidad:": "Unidad de Medida:",
-          "Unidad de Medida:": "Industria:",
-          "Industria:": "Fecha Vencimiento:",
-          "Fecha Vencimiento:": "Modelo:",
-          "Modelo:": "Estado:",
-          "Estado:": "Peso Kg.:",
-          "Peso Kg.:": "Observaciones:",
-          "Observaciones:": ""
-        }
-      },
-      {
-        "imgStatic": "20239472_6_330062023_1761546.webp",
-        "nro": 7,
-        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20239472_6_330062023_1761546.jpg",
+        "img": "http://anbsw04.aduana.gob.bo:7551/subastas/mercancia/20231528221092023_1893139b1_i1.jpg",
         "details": {
           "Descripción:": "Características:",
           "Características:": "Cantidad:",

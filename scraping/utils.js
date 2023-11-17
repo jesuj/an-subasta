@@ -1,27 +1,10 @@
 import * as cheerio from 'cheerio'
 import { logError, logInfo, logSuccess, logWarning } from './log.js'
-import { getCatalogo } from './catalogo.js'
 import { writeDBFile } from '../db/index.js'
 import sharp from 'sharp'
 import path from 'node:path'
+import { SCRAPINGS } from './scrapings.js'
 const STATICS_PATH = path.join(process.cwd(), './assets/static/')
-
-export const SCRAPINGS = {
-  catalogo: {
-    url: 'http://anbsw04.aduana.gob.bo:7551/subastas/lotelista.do?parameter=catalogo',
-    scraper: getCatalogo,
-    options: {
-      headers: {
-        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
-        'accept-language': 'es-BO,es-419;q=0.9,es;q=0.8',
-        'upgrade-insecure-requests': '1',
-        'Referrer-Policy': 'strict-origin-when-cross-origin'
-      },
-      body: null,
-      method: 'GET'
-    }
-  }
-}
 
 export const cleanText = (text) =>
   text
